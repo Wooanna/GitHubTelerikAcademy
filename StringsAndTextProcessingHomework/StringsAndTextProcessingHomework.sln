@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReverseAString", "02.ReverseAString\02.ReverseAString.csproj", "{B9B1B377-EF77-4823-9544-F6FB73889336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Brackets", "03.Brackets\03.Brackets.csproj", "{DCA6F495-3EFA-4F9A-8637-775FC5EB5091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B1B377-EF77-4823-9544-F6FB73889336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B1B377-EF77-4823-9544-F6FB73889336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B1B377-EF77-4823-9544-F6FB73889336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B1B377-EF77-4823-9544-F6FB73889336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA6F495-3EFA-4F9A-8637-775FC5EB5091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA6F495-3EFA-4F9A-8637-775FC5EB5091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA6F495-3EFA-4F9A-8637-775FC5EB5091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA6F495-3EFA-4F9A-8637-775FC5EB5091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
