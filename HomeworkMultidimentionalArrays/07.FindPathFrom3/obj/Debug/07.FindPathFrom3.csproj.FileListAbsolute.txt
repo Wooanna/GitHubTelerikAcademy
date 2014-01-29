@@ -1,0 +1,6 @@
+c:\users\woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\bin\Debug\07.FindPathFrom3.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\bin\Debug\07.FindPathFrom3.exe
+c:\users\woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\bin\Debug\07.FindPathFrom3.pdb
+c:\users\woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\obj\Debug\07.FindPathFrom3.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\obj\Debug\07.FindPathFrom3.exe
+c:\users\woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\obj\Debug\07.FindPathFrom3.pdb

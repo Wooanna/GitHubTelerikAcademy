@@ -1,0 +1,5 @@
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

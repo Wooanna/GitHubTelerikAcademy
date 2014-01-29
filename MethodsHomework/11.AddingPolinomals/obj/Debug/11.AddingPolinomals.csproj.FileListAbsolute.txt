@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\11.AddingPolinomals\bin\Debug\11.AddingPolinomals.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\11.AddingPolinomals\obj\Debug\11.AddingPolinomals.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\11.AddingPolinomals\bin\Debug\11.AddingPolinomals.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\11.AddingPolinomals\bin\Debug\11.AddingPolinomals.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\11.AddingPolinomals\obj\Debug\11.AddingPolinomals.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\11.AddingPolinomals\obj\Debug\11.AddingPolinomals.pdb

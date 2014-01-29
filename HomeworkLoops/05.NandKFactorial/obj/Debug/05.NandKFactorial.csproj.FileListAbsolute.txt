@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\05.NandKFactorial\bin\Debug\05.NandKFactorial.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\05.NandKFactorial\bin\Debug\05.NandKFactorial.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\05.NandKFactorial\bin\Debug\05.NandKFactorial.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\05.NandKFactorial\obj\Debug\05.NandKFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\05.NandKFactorial\obj\Debug\05.NandKFactorial.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\05.NandKFactorial\obj\Debug\05.NandKFactorial.pdb

@@ -1,0 +1,3 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\CheckThirdBitOfANumber\bin\Debug\CheckThirdBitOfANumber.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\CheckThirdBitOfANumber\obj\Debug\CheckThirdBitOfANumber.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\CheckThirdBitOfANumber\obj\Debug\CheckThirdBitOfANumber.pdb

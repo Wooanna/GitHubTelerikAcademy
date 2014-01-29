@@ -1,0 +1,6 @@
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NdevidedByK\bin\Debug\NdevidedByK.exe.config
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NdevidedByK\bin\Debug\NdevidedByK.exe
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NdevidedByK\bin\Debug\NdevidedByK.pdb
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NdevidedByK\obj\Debug\NdevidedByK.csprojResolveAssemblyReference.cache
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NdevidedByK\obj\Debug\NdevidedByK.exe
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NdevidedByK\obj\Debug\NdevidedByK.pdb

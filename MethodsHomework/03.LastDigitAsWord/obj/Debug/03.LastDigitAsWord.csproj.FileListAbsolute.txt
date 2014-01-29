@@ -1,0 +1,12 @@
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.pdb
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.csprojResolveAssemblyReference.cache

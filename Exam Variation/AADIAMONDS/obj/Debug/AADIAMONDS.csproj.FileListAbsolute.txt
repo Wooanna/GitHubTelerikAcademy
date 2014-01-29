@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AADIAMONDS\bin\Debug\AADIAMONDS.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AADIAMONDS\bin\Debug\AADIAMONDS.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AADIAMONDS\bin\Debug\AADIAMONDS.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AADIAMONDS\obj\Debug\AADIAMONDS.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AADIAMONDS\obj\Debug\AADIAMONDS.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AADIAMONDS\obj\Debug\AADIAMONDS.pdb

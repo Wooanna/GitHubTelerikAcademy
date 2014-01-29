@@ -1,0 +1,6 @@
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\PrimeOrNot\bin\Debug\PrimeOrNot.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\PrimeOrNot\bin\Debug\PrimeOrNot.exe
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\PrimeOrNot\bin\Debug\PrimeOrNot.pdb
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\PrimeOrNot\obj\Debug\PrimeOrNot.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\PrimeOrNot\obj\Debug\PrimeOrNot.exe
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\PrimeOrNot\obj\Debug\PrimeOrNot.pdb

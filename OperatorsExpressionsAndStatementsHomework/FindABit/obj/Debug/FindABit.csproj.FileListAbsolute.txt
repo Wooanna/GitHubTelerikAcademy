@@ -1,0 +1,6 @@
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\FindABit\bin\Debug\FindABit.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\FindABit\bin\Debug\FindABit.exe
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\FindABit\bin\Debug\FindABit.pdb
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\FindABit\obj\Debug\FindABit.exe
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\FindABit\obj\Debug\FindABit.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\FindABit\obj\Debug\FindABit.csprojResolveAssemblyReference.cache

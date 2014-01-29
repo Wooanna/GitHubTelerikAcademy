@@ -1,0 +1,6 @@
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\03.CompareCharArrs\bin\Debug\03.CompareCharArrs.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\03.CompareCharArrs\bin\Debug\03.CompareCharArrs.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\03.CompareCharArrs\bin\Debug\03.CompareCharArrs.pdb
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\03.CompareCharArrs\obj\Debug\03.CompareCharArrsNOTDONE.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\03.CompareCharArrs\obj\Debug\03.CompareCharArrs.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\03.CompareCharArrs\obj\Debug\03.CompareCharArrs.pdb

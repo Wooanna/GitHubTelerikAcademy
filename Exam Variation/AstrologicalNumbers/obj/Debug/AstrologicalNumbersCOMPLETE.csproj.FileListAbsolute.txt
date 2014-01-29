@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AstrologicalNumbers\bin\Debug\AstrologicalNumbers.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AstrologicalNumbers\bin\Debug\AstrologicalNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AstrologicalNumbers\bin\Debug\AstrologicalNumbers.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AstrologicalNumbers\obj\Debug\AstrologicalNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AstrologicalNumbers\obj\Debug\AstrologicalNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\08.BinaryRepresentationOf16-bitShort\bin\Debug\08.BinaryRepresentationOf16-bitShort.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\08.BinaryRepresentationOf16-bitShort\bin\Debug\08.BinaryRepresentationOf16-bitShort.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\08.BinaryRepresentationOf16-bitShort\bin\Debug\08.BinaryRepresentationOf16-bitShort.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\08.BinaryRepresentationOf16-bitShort\obj\Debug\08.BinaryRepresentationOf16-bitShort.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\08.BinaryRepresentationOf16-bitShort\obj\Debug\08.BinaryRepresentationOf16-bitShort.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\08.BinaryRepresentationOf16-bitShort\obj\Debug\08.BinaryRepresentationOf16-bitShort.pdb

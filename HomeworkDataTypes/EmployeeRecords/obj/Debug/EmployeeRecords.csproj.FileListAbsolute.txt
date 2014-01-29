@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EmployeeRecords\bin\Debug\EmployeeRecords.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EmployeeRecords\obj\Debug\EmployeeRecords.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EmployeeRecords\bin\Debug\EmployeeRecords.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EmployeeRecords\bin\Debug\EmployeeRecords.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EmployeeRecords\obj\Debug\EmployeeRecords.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EmployeeRecords\obj\Debug\EmployeeRecords.pdb

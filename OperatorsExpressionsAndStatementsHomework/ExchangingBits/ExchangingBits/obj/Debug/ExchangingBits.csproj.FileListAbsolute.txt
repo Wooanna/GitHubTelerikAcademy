@@ -1,0 +1,6 @@
+c:\users\woo\documents\visual studio 2012\Projects\ExchangingBits\ExchangingBits\bin\Debug\ExchangingBits.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\ExchangingBits\ExchangingBits\bin\Debug\ExchangingBits.exe
+c:\users\woo\documents\visual studio 2012\Projects\ExchangingBits\ExchangingBits\bin\Debug\ExchangingBits.pdb
+c:\users\woo\documents\visual studio 2012\Projects\ExchangingBits\ExchangingBits\obj\Debug\ExchangingBits.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\ExchangingBits\ExchangingBits\obj\Debug\ExchangingBits.exe
+c:\users\woo\documents\visual studio 2012\Projects\ExchangingBits\ExchangingBits\obj\Debug\ExchangingBits.pdb

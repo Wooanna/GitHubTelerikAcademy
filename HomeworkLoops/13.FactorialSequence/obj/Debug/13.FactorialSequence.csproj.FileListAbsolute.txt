@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\13.FactorialSequence\bin\Debug\13.FactorialSequence.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\13.FactorialSequence\bin\Debug\13.FactorialSequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\13.FactorialSequence\bin\Debug\13.FactorialSequence.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\13.FactorialSequence\obj\Debug\13.FactorialSequence.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\13.FactorialSequence\obj\Debug\13.FactorialSequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\13.FactorialSequence\obj\Debug\13.FactorialSequence.pdb

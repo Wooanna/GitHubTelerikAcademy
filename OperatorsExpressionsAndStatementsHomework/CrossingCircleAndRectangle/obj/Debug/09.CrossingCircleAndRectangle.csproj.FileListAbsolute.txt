@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\CrossingCircleAndRectangle\bin\Debug\CrossingCircleAndRectangle.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\CrossingCircleAndRectangle\obj\Debug\CrossingCircleAndRectangle.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\CrossingCircleAndRectangle\obj\Debug\CrossingCircleAndRectangle.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\CrossingCircleAndRectangle\bin\Debug\CrossingCircleAndRectangle.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\CrossingCircleAndRectangle\obj\Debug\CrossingCircleAndRectangle.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\CrossingCircleAndRectangle\obj\Debug\CrossingCircleAndRectangle.pdb

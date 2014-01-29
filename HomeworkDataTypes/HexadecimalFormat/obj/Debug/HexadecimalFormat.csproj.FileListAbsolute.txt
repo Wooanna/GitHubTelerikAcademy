@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\HexadecimalFormat\obj\Debug\HexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb

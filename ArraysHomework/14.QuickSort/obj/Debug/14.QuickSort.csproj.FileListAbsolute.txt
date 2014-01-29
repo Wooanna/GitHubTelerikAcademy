@@ -1,0 +1,12 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.QuickSort\bin\Debug\14.QuickSort.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.QuickSort\obj\Debug\14.QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.QuickSort\bin\Debug\14.QuickSort.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.QuickSort\bin\Debug\14.QuickSort.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.QuickSort\obj\Debug\14.QuickSort.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.QuickSort\obj\Debug\14.QuickSort.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\14.QuickSort\bin\Debug\14.QuickSort.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\14.QuickSort\obj\Debug\14.QuickSort.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\14.QuickSort\obj\Debug\14.QuickSort.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\14.QuickSort\bin\Debug\14.QuickSort.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\14.QuickSort\bin\Debug\14.QuickSort.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\14.QuickSort\obj\Debug\14.QuickSort.csprojResolveAssemblyReference.cache

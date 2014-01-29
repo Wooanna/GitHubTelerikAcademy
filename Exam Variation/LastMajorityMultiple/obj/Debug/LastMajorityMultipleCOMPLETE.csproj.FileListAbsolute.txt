@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\LastMajorityMultiple\bin\Debug\LastMajorityMultiple.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\LastMajorityMultiple\bin\Debug\LastMajorityMultiple.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\LastMajorityMultiple\bin\Debug\LastMajorityMultiple.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\LastMajorityMultiple\obj\Debug\LastMajorityMultipleCOMPLETE.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\LastMajorityMultiple\obj\Debug\LastMajorityMultiple.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\LastMajorityMultiple\obj\Debug\LastMajorityMultiple.pdb

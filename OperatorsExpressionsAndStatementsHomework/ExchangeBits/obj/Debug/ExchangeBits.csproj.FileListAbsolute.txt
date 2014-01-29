@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ExchangeBits\bin\Debug\ExchangeBits.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ExchangeBits\obj\Debug\ExchangeBits.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ExchangeBits\bin\Debug\ExchangeBits.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ExchangeBits\bin\Debug\ExchangeBits.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ExchangeBits\obj\Debug\ExchangeBits.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ExchangeBits\obj\Debug\ExchangeBits.pdb

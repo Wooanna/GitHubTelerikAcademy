@@ -1,0 +1,3 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\PrimeOrNot\bin\Debug\PrimeOrNot.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\PrimeOrNot\obj\Debug\PrimeOrNot.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\PrimeOrNot\obj\Debug\PrimeOrNot.pdb

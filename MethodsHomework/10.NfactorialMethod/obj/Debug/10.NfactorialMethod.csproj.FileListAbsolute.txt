@@ -1,0 +1,11 @@
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\10.NfactorialMethod\bin\Debug\10.NfactorialMethod.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\10.NfactorialMethod\bin\Debug\10.NfactorialMethod.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\10.NfactorialMethod\bin\Debug\10.NfactorialMethod.pdb
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\10.NfactorialMethod\obj\Debug\10.NfactorialMethod.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\10.NfactorialMethod\obj\Debug\10.NfactorialMethod.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\10.NfactorialMethod\bin\Debug\10.NfactorialMethod.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\10.NfactorialMethod\obj\Debug\10.NfactorialMethod.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\10.NfactorialMethod\obj\Debug\10.NfactorialMethod.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\10.NfactorialMethod\bin\Debug\10.NfactorialMethod.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\10.NfactorialMethod\bin\Debug\10.NfactorialMethod.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\10.NfactorialMethod\obj\Debug\10.NfactorialMethod.csprojResolveAssemblyReference.cache

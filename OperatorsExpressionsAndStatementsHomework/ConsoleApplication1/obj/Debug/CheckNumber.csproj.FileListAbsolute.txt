@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\ConsoleApplication1\obj\Debug\CheckNumber.csprojResolveAssemblyReference.cache

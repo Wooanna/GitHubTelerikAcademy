@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\11.Cards\bin\Debug\11.Cards.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\11.Cards\bin\Debug\11.Cards.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\11.Cards\bin\Debug\11.Cards.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\11.Cards\obj\Debug\11.Cards.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\11.Cards\obj\Debug\11.Cards.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\11.Cards\obj\Debug\11.Cards.pdb

@@ -1,0 +1,6 @@
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatingPointPrecision\bin\Debug\FloatingPointPrecision.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatingPointPrecision\bin\Debug\FloatingPointPrecision.exe
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatingPointPrecision\bin\Debug\FloatingPointPrecision.pdb
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatingPointPrecision\obj\Debug\FloatingPointPrecision.exe
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatingPointPrecision\obj\Debug\FloatingPointPrecision.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\FloatingPointPrecision\obj\Debug\PrecisionCompareson.csprojResolveAssemblyReference.cache

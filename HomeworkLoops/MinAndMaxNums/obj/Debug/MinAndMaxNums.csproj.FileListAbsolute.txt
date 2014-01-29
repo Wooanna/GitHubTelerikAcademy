@@ -1,0 +1,5 @@
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\MinAndMaxNums\bin\Debug\MinAndMaxNums.exe.config
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\MinAndMaxNums\bin\Debug\MinAndMaxNums.exe
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\MinAndMaxNums\bin\Debug\MinAndMaxNums.pdb
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\MinAndMaxNums\obj\Debug\MinAndMaxNums.exe
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\MinAndMaxNums\obj\Debug\MinAndMaxNums.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\SevenLandNumbers\bin\Debug\SevenLandNumbers.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\SevenLandNumbers\bin\Debug\SevenLandNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\SevenLandNumbers\bin\Debug\SevenLandNumbers.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\SevenLandNumbers\obj\Debug\SevenLandNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\SevenLandNumbers\obj\Debug\SevenLandNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\SevenLandNumbers\obj\Debug\SevenLandNumbers.pdb

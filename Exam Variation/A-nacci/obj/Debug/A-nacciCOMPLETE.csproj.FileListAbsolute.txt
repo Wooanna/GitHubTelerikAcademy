@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\A-nacci\bin\Debug\A-nacci.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\A-nacci\bin\Debug\A-nacci.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\A-nacci\bin\Debug\A-nacci.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\A-nacci\obj\Debug\A-nacci.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\A-nacci\obj\Debug\A-nacci.pdb

@@ -1,0 +1,3 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\NotDevBy3And7\bin\Debug\NotDevBy3And7.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\NotDevBy3And7\obj\Debug\NotDevBy3And7.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\NotDevBy3And7\obj\Debug\NotDevBy3And7.pdb

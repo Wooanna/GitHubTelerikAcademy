@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\01.FillUpArrays\bin\Debug\01.FillUpArrays.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\01.FillUpArrays\bin\Debug\01.FillUpArrays.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\01.FillUpArrays\bin\Debug\01.FillUpArrays.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\01.FillUpArrays\obj\Debug\01.FillUpArrays.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\01.FillUpArrays\obj\Debug\01.FillUpArrays.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\01.FillUpArrays\obj\Debug\01.FillUpArrays.pdb

@@ -1,0 +1,5 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\RectangleAreaCalculating\bin\Debug\RectangleAreaCalculating.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\RectangleAreaCalculating\bin\Debug\RectangleAreaCalculating.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\RectangleAreaCalculating\bin\Debug\RectangleAreaCalculating.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\RectangleAreaCalculating\obj\Debug\RectangleAreaCalculating.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\RectangleAreaCalculating\obj\Debug\RectangleAreaCalculating.pdb

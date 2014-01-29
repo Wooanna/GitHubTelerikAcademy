@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\07.MathExpression\bin\Debug\07.MathExpression.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\07.MathExpression\obj\Debug\07.MathExpression.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\07.MathExpression\obj\Debug\07.MathExpression.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\07.MathExpression\bin\Debug\07.MathExpression.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\07.MathExpression\bin\Debug\07.MathExpression.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\07.MathExpression\obj\Debug\07.MathExpressionNotCompletelyDone.csprojResolveAssemblyReference.cache

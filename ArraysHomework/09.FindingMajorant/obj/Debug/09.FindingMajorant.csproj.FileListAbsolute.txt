@@ -1,0 +1,12 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\09.FindingMajorant\bin\Debug\09.FindingMajorant.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\09.FindingMajorant\bin\Debug\09.FindingMajorant.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\09.FindingMajorant\bin\Debug\09.FindingMajorant.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\09.FindingMajorant\obj\Debug\09.FindingMajorant.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\09.FindingMajorant\obj\Debug\09.FindingMajorant.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\09.FindingMajorant\obj\Debug\09.FindingMajorant.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\09.FindingMajorant\bin\Debug\09.FindingMajorant.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\09.FindingMajorant\obj\Debug\09.FindingMajorant.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\09.FindingMajorant\obj\Debug\09.FindingMajorant.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\09.FindingMajorant\bin\Debug\09.FindingMajorant.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\09.FindingMajorant\bin\Debug\09.FindingMajorant.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\09.FindingMajorant\obj\Debug\09.FindingMajorant.csprojResolveAssemblyReference.cache

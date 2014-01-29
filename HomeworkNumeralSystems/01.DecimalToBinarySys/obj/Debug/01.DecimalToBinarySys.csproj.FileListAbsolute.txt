@@ -1,0 +1,9 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\01.DecimalToBinarySys\bin\Debug\01.DecimalToBinarySys.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\01.DecimalToBinarySys\bin\Debug\01.DecimalToBinarySys.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\01.DecimalToBinarySys\bin\Debug\01.DecimalToBinarySys.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\01.DecimalToBinarySys\obj\Debug\01.DecimalToBinarySys.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\01.DecimalToBinarySys\obj\Debug\01.DecimalToBinarySys.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\01.DecimalToBinarySys\obj\Debug\01.DecimalToBinarySys.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\01.DecimalToBinarySys\bin\Debug\01.DecimalToBinarySys.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\01.DecimalToBinarySys\obj\Debug\01.DecimalToBinarySys.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\01.DecimalToBinarySys\obj\Debug\01.DecimalToBinarySys.pdb

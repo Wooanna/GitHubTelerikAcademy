@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\12.SubstractPolynomials\bin\Debug\12.SubstractPolynomials.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\12.SubstractPolynomials\bin\Debug\12.SubstractPolynomials.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\12.SubstractPolynomials\bin\Debug\12.SubstractPolynomials.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\12.SubstractPolynomials\obj\Debug\12.SubstractPolynomials.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\12.SubstractPolynomials\obj\Debug\12.SubstractPolynomials.pdb

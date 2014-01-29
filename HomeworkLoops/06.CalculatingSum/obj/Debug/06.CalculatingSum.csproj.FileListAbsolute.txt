@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\06.CalculatingSum\bin\Debug\06.CalculatingSum.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\06.CalculatingSum\bin\Debug\06.CalculatingSum.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\06.CalculatingSum\bin\Debug\06.CalculatingSum.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\06.CalculatingSum\obj\Debug\06.CalculatingSum.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\06.CalculatingSum\obj\Debug\06.CalculatingSum.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\06.CalculatingSum\obj\Debug\06.CalculatingSum.pdb

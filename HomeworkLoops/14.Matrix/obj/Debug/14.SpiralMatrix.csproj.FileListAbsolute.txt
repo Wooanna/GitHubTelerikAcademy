@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\14.Matrix\bin\Debug\14.Matrix.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\14.Matrix\bin\Debug\14.Matrix.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\14.Matrix\bin\Debug\14.Matrix.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\14.Matrix\obj\Debug\14.SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\14.Matrix\obj\Debug\14.Matrix.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\14.Matrix\obj\Debug\14.Matrix.pdb

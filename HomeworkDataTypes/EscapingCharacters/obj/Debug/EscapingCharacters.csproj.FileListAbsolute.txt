@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EscapingCharacters\bin\Debug\EscapingCharacters.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EscapingCharacters\bin\Debug\EscapingCharacters.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EscapingCharacters\bin\Debug\EscapingCharacters.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EscapingCharacters\obj\Debug\EscapingCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EscapingCharacters\obj\Debug\EscapingCharacters.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EscapingCharacters\obj\Debug\EscapingCharacters.pdb

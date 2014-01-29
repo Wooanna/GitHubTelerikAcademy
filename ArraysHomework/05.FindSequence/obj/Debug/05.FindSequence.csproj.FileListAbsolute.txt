@@ -1,0 +1,15 @@
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\05.FindSequence\bin\Debug\05.FindSequence.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\05.FindSequence\bin\Debug\05.FindSequence.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\05.FindSequence\bin\Debug\05.FindSequence.pdb
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\05.FindSequence\obj\Debug\05.FindSequence.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\05.FindSequence\obj\Debug\05.FindSequence.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\05.FindSequence\obj\Debug\05.FindSequence.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\05.FindSequence\bin\Debug\05.FindSequence.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\05.FindSequence\obj\Debug\05.FindSequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\05.FindSequence\obj\Debug\05.FindSequence.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\05.FindSequence\bin\Debug\05.FindSequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\05.FindSequence\bin\Debug\05.FindSequence.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\05.FindSequence\obj\Debug\05.FindSequence.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\05.FindSequence\bin\Debug\05.FindSequence.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\05.FindSequence\obj\Debug\05.FindSequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\05.FindSequence\obj\Debug\05.FindSequence.pdb

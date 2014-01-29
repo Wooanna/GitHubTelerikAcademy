@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.SeaveOfErathosten\bin\Debug\14.SeaveOfErathosten.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.SeaveOfErathosten\bin\Debug\14.SeaveOfErathosten.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.SeaveOfErathosten\bin\Debug\14.SeaveOfErathosten.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.SeaveOfErathosten\obj\Debug\14.SeaveOfErathosten.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.SeaveOfErathosten\obj\Debug\14.SeaveOfErathosten.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\14.SeaveOfErathosten\obj\Debug\14.SeaveOfErathosten.pdb

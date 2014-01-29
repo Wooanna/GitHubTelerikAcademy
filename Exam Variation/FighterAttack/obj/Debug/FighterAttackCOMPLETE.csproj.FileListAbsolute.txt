@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\FighterAttack\bin\Debug\FighterAttack.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\FighterAttack\bin\Debug\FighterAttack.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\FighterAttack\bin\Debug\FighterAttack.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\FighterAttack\obj\Debug\FighterAttack.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\FighterAttack\obj\Debug\FighterAttack.pdb

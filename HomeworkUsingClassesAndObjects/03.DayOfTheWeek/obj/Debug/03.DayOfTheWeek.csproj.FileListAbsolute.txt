@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.csprojResolveAssemblyReference.cache

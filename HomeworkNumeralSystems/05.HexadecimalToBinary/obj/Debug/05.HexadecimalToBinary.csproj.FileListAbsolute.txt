@@ -1,0 +1,12 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\05.HexadecimalToBinary\obj\Debug\05.HexadecimalToBinary.csprojResolveAssemblyReference.cache

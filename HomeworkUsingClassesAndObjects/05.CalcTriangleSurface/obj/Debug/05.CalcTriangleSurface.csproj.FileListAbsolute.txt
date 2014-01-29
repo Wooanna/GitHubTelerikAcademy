@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\05.CalcTriangleSurface\bin\Debug\05.CalcTriangleSurface.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\05.CalcTriangleSurface\bin\Debug\05.CalcTriangleSurface.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\05.CalcTriangleSurface\bin\Debug\05.CalcTriangleSurface.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\05.CalcTriangleSurface\obj\Debug\05.CalcTriangleSurface.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\05.CalcTriangleSurface\obj\Debug\05.CalcTriangleSurface.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\05.CalcTriangleSurface\obj\Debug\05.CalcTriangleSurface.pdb

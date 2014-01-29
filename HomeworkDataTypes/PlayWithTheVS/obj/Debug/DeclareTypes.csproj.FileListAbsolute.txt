@@ -1,0 +1,9 @@
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\PlayWithTheVS\bin\Debug\PlayWithTheVS.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\PlayWithTheVS\bin\Debug\PlayWithTheVS.exe
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\PlayWithTheVS\bin\Debug\PlayWithTheVS.pdb
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\PlayWithTheVS\obj\Debug\DeclareTypes.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\PlayWithTheVS\obj\Debug\PlayWithTheVS.exe
+c:\users\woo\documents\visual studio 2012\Projects\ConsoleApplication1\PlayWithTheVS\obj\Debug\PlayWithTheVS.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkDataTypes\PlayWithTheVS\bin\Debug\PlayWithTheVS.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkDataTypes\PlayWithTheVS\obj\Debug\PlayWithTheVS.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkDataTypes\PlayWithTheVS\obj\Debug\PlayWithTheVS.pdb

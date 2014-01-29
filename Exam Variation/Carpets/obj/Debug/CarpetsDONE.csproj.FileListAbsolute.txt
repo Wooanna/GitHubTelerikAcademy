@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Carpets\bin\Debug\Carpets.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Carpets\bin\Debug\Carpets.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Carpets\bin\Debug\Carpets.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Carpets\obj\Debug\Carpets.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Carpets\obj\Debug\Carpets.pdb

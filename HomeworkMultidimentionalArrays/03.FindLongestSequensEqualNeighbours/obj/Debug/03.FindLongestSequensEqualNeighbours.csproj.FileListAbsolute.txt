@@ -1,0 +1,9 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\03.FindLongestSequensEqualNeighbours\bin\Debug\03.FindLongestSequensEqualNeighbours.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\03.FindLongestSequensEqualNeighbours\bin\Debug\03.FindLongestSequensEqualNeighbours.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\03.FindLongestSequensEqualNeighbours\bin\Debug\03.FindLongestSequensEqualNeighbours.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\03.FindLongestSequensEqualNeighbours\obj\Debug\03.FindLongestSequensEqualNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\03.FindLongestSequensEqualNeighbours\obj\Debug\03.FindLongestSequensEqualNeighbours.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\03.FindLongestSequensEqualNeighbours\obj\Debug\03.FindLongestSequensEqualNeighbours.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkMultidimentionalArrays\03.FindLongestSequensEqualNeighbours\bin\Debug\03.FindLongestSequensEqualNeighbours.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkMultidimentionalArrays\03.FindLongestSequensEqualNeighbours\obj\Debug\03.FindLongestSequensEqualNeighbours.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkMultidimentionalArrays\03.FindLongestSequensEqualNeighbours\obj\Debug\03.FindLongestSequensEqualNeighbours.pdb

@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\CoffeeMachine\obj\Debug\CoffeeMachine.pdb

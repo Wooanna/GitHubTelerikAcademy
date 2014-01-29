@@ -1,0 +1,1 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\01.DecimalToBinary\bin\Debug\01.DecimalToBinary.exe.config

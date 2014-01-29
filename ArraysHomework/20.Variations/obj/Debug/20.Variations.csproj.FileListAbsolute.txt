@@ -1,0 +1,10 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\20.Variations\bin\Debug\20.Variations.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\20.Variations\bin\Debug\20.Variations.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\20.Variations\bin\Debug\20.Variations.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\20.Variations\obj\Debug\20.Variations.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\20.Variations\obj\Debug\20.Variations.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\20.Variations\bin\Debug\20.Variations.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\20.Variations\obj\Debug\20.Variations.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\20.Variations\obj\Debug\20.Variations.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\20.Variations\bin\Debug\20.Variations.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\20.Variations\bin\Debug\20.Variations.pdb

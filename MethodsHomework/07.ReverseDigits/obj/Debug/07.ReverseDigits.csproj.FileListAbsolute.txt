@@ -1,0 +1,10 @@
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\07.ReverseDigits\bin\Debug\07.ReverseDigits.pdb
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\07.ReverseDigits\obj\Debug\07.ReverseDigits.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\07.ReverseDigits\obj\Debug\07.ReverseDigits.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\07.ReverseDigits\obj\Debug\07.ReverseDigits.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\07.ReverseDigits\obj\Debug\07.ReverseDigits.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\07.ReverseDigits\bin\Debug\07.ReverseDigits.pdb

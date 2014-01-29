@@ -1,0 +1,6 @@
+C:\Users\Woo\Desktop\HomeworkCSharpIntroduction\9.PrintSequence\bin\Debug\9.PrintSequence.exe.config
+C:\Users\Woo\Desktop\HomeworkCSharpIntroduction\9.PrintSequence\bin\Debug\9.PrintSequence.exe
+C:\Users\Woo\Desktop\HomeworkCSharpIntroduction\9.PrintSequence\bin\Debug\9.PrintSequence.pdb
+C:\Users\Woo\Desktop\HomeworkCSharpIntroduction\9.PrintSequence\obj\Debug\9.PrintSequence.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Desktop\HomeworkCSharpIntroduction\9.PrintSequence\obj\Debug\9.PrintSequence.exe
+C:\Users\Woo\Desktop\HomeworkCSharpIntroduction\9.PrintSequence\obj\Debug\9.PrintSequence.pdb

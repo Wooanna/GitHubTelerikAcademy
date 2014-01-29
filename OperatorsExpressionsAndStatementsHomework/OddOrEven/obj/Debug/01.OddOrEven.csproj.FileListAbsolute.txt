@@ -1,0 +1,3 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\OddOrEven\obj\Debug\OddOrEven.pdb

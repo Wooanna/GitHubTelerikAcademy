@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AAAxpression\bin\Debug\AAAxpression.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AAAxpression\bin\Debug\AAAxpression.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AAAxpression\bin\Debug\AAAxpression.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AAAxpression\obj\Debug\AAAxpression.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\AAAxpression\obj\Debug\AAAxpression.pdb

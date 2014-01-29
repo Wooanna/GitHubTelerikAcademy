@@ -1,0 +1,5 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsFemale\bin\Debug\IsFemale.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsFemale\bin\Debug\IsFemale.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsFemale\bin\Debug\IsFemale.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsFemale\obj\Debug\IsFemale.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsFemale\obj\Debug\IsFemale.pdb

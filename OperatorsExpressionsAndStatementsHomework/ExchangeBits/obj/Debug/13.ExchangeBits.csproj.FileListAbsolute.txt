@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\ExchangeBits\bin\Debug\ExchangeBits.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\ExchangeBits\obj\Debug\ExchangeBits.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\ExchangeBits\obj\Debug\ExchangeBits.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\ExchangeBits\bin\Debug\ExchangeBits.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\ExchangeBits\bin\Debug\ExchangeBits.pdb

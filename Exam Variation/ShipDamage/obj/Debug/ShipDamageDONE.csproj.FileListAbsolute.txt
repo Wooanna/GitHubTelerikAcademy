@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\ShipDamage\bin\Debug\ShipDamage.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\ShipDamage\bin\Debug\ShipDamage.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\ShipDamage\bin\Debug\ShipDamage.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\ShipDamage\obj\Debug\ShipDamage.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\ShipDamage\obj\Debug\ShipDamage.pdb

@@ -1,0 +1,12 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.pdb

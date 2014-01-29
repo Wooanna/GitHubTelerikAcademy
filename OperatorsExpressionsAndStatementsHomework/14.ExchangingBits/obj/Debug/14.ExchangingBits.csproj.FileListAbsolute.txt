@@ -1,0 +1,9 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\14.ExchangingBits\bin\Debug\14.ExchangingBits.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\14.ExchangingBits\bin\Debug\14.ExchangingBits.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\14.ExchangingBits\bin\Debug\14.ExchangingBits.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\14.ExchangingBits\obj\Debug\14.ExchangingBits.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\14.ExchangingBits\obj\Debug\14.ExchangingBits.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\14.ExchangingBits\obj\Debug\14.ExchangingBits.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\14.ExchangingBits\bin\Debug\14.ExchangingBits.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\14.ExchangingBits\obj\Debug\14.ExchangingBits.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\14.ExchangingBits\obj\Debug\14.ExchangingBits.pdb

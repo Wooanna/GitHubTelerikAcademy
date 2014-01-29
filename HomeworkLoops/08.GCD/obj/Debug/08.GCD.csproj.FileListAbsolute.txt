@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\08.GCD\bin\Debug\08.GCD.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\08.GCD\bin\Debug\08.GCD.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\08.GCD\bin\Debug\08.GCD.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\08.GCD\obj\Debug\08.GCD.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\08.GCD\obj\Debug\08.GCD.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\08.GCD\obj\Debug\08.GCD.pdb

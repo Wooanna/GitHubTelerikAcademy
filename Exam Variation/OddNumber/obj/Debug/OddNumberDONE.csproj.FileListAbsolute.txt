@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\OddNumber\obj\Debug\OddNumberDONE.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\OddNumber\obj\Debug\OddNumber.pdb

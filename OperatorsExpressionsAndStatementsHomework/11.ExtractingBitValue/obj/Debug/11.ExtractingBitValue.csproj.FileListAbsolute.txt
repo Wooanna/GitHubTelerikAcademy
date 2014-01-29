@@ -1,0 +1,9 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\11.ExtractingBitValue\bin\Debug\11.ExtractingBitValue.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\11.ExtractingBitValue\bin\Debug\11.ExtractingBitValue.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\11.ExtractingBitValue\bin\Debug\11.ExtractingBitValue.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\11.ExtractingBitValue\obj\Debug\11.ExtractingBitValue.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\11.ExtractingBitValue\obj\Debug\11.ExtractingBitValue.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\11.ExtractingBitValue\obj\Debug\11.ExtractingBitValue.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\11.ExtractingBitValue\bin\Debug\11.ExtractingBitValue.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\11.ExtractingBitValue\obj\Debug\11.ExtractingBitValue.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\11.ExtractingBitValue\obj\Debug\11.ExtractingBitValue.pdb

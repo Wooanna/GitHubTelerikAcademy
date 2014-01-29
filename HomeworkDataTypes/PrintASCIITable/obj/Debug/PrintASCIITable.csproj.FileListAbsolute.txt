@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\PrintASCIITable\obj\Debug\PrintASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\PrintASCIITable\obj\Debug\PrintASCIITable.pdb

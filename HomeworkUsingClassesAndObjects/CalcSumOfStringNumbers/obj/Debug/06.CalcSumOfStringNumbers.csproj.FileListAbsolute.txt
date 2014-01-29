@@ -1,0 +1,10 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\bin\Debug\CalcSumOfStringNumbers.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\bin\Debug\CalcSumOfStringNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\bin\Debug\CalcSumOfStringNumbers.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\obj\Debug\CalcSumOfStringNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\obj\Debug\CalcSumOfStringNumbers.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\bin\Debug\CalcSumOfStringNumbers.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\obj\Debug\CalcSumOfStringNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\bin\Debug\CalcSumOfStringNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\bin\Debug\CalcSumOfStringNumbers.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\obj\Debug\CalcSumOfStringNumbers.pdb

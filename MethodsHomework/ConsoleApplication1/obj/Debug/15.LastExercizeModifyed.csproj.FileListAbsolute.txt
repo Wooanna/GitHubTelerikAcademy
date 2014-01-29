@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\ConsoleApplication1\obj\Debug\15.LastExercizeModifyed.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

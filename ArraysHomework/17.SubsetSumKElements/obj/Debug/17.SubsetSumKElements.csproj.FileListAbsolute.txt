@@ -1,0 +1,8 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\17.SubsetSumKElements\bin\Debug\17.SubsetSumKElements.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\17.SubsetSumKElements\bin\Debug\17.SubsetSumKElements.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\17.SubsetSumKElements\bin\Debug\17.SubsetSumKElements.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\17.SubsetSumKElements\obj\Debug\17.SubsetSumKElements.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\17.SubsetSumKElements\obj\Debug\17.SubsetSumKElements.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\17.SubsetSumKElements\bin\Debug\17.SubsetSumKElements.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\17.SubsetSumKElements\obj\Debug\17.SubsetSumKElements.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\17.SubsetSumKElements\obj\Debug\17.SubsetSumKElements.pdb

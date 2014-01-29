@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\DevidedByFiveAndSeven\bin\Debug\DevidedByFiveAndSeven.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\DevidedByFiveAndSeven\obj\Debug\DevidedByFiveAndSeven.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\DevidedByFiveAndSeven\bin\Debug\DevidedByFiveAndSeven.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\DevidedByFiveAndSeven\bin\Debug\DevidedByFiveAndSeven.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\DevidedByFiveAndSeven\obj\Debug\DevidedByFiveAndSeven.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\DevidedByFiveAndSeven\obj\Debug\DevidedByFiveAndSeven.pdb

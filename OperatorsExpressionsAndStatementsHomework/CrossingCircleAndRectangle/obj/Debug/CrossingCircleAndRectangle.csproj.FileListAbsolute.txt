@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\CrossingCircleAndRectangle\bin\Debug\CrossingCircleAndRectangle.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\CrossingCircleAndRectangle\bin\Debug\CrossingCircleAndRectangle.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\CrossingCircleAndRectangle\bin\Debug\CrossingCircleAndRectangle.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\CrossingCircleAndRectangle\obj\Debug\CrossingCircleAndRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\CrossingCircleAndRectangle\obj\Debug\CrossingCircleAndRectangle.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\CrossingCircleAndRectangle\obj\Debug\CrossingCircleAndRectangle.pdb

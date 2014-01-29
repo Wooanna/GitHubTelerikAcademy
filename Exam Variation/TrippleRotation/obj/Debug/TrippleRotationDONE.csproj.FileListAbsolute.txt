@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TrippleRotation\bin\Debug\TrippleRotation.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TrippleRotation\bin\Debug\TrippleRotation.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TrippleRotation\bin\Debug\TrippleRotation.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TrippleRotation\obj\Debug\TrippleRotation.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TrippleRotation\obj\Debug\TrippleRotation.pdb

@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\13.WriteASimpleProgram\bin\Debug\13.WriteASimpleProgram.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\13.WriteASimpleProgram\bin\Debug\13.WriteASimpleProgram.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\13.WriteASimpleProgram\bin\Debug\13.WriteASimpleProgram.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\13.WriteASimpleProgram\obj\Debug\13.WriteASimpleProgram.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\13.WriteASimpleProgram\obj\Debug\13.WriteASimpleProgram.pdb

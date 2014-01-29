@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\FormulaBitOne\bin\Debug\FormulaBitOne.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\FormulaBitOne\bin\Debug\FormulaBitOne.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\FormulaBitOne\bin\Debug\FormulaBitOne.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\FormulaBitOne\obj\Debug\FormulaBitOne.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\FormulaBitOne\obj\Debug\FormulaBitOne.pdb

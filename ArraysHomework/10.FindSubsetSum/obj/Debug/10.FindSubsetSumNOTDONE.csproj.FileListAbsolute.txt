@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\10.FindSubsetSum\obj\Debug\10.FindSubsetSumNOTDONE.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\10.FindSubsetSum\obj\Debug\10.FindSubsetSum.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\10.FindSubsetSum\bin\Debug\10.FindSubsetSum.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\10.FindSubsetSum\bin\Debug\10.FindSubsetSum.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\10.FindSubsetSum\bin\Debug\10.FindSubsetSum.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\10.FindSubsetSum\obj\Debug\10.FindSubsetSum.pdb

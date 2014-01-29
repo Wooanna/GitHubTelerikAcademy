@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\09.CathalanNumber\bin\Debug\09.CathalanNumber.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\09.CathalanNumber\bin\Debug\09.CathalanNumber.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\09.CathalanNumber\bin\Debug\09.CathalanNumber.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\09.CathalanNumber\obj\Debug\09.CathalanNumber.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\09.CathalanNumber\obj\Debug\09.CathalanNumber.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\09.CathalanNumber\obj\Debug\09.CathalanNumber.pdb

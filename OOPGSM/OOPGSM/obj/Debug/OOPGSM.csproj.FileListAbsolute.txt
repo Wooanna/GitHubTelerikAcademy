@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\OOPGSM\bin\Debug\OOPGSM.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\OOPGSM\bin\Debug\OOPGSM.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\OOPGSM\bin\Debug\OOPGSM.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\OOPGSM\obj\Debug\OOPGSM.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\OOPGSM\obj\Debug\OOPGSM.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\OOPGSM\obj\Debug\OOPGSM.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\04.BatBoikoTower\bin\Debug\04.BatBoikoTower.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\04.BatBoikoTower\bin\Debug\04.BatBoikoTower.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\04.BatBoikoTower\bin\Debug\04.BatBoikoTower.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\04.BatBoikoTower\obj\Debug\BatBoikoTowerCOMPLETE.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\04.BatBoikoTower\obj\Debug\04.BatBoikoTower.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\04.BatBoikoTower\obj\Debug\04.BatBoikoTower.pdb

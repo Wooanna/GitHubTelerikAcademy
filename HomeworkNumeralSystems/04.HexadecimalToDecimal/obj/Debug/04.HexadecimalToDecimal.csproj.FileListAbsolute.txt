@@ -1,0 +1,12 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.csprojResolveAssemblyReference.cache

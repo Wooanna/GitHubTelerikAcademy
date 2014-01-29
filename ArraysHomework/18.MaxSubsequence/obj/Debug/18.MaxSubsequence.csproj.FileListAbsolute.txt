@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\18.MaxSubsequence\bin\Debug\18.MaxSubsequence.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\18.MaxSubsequence\bin\Debug\18.MaxSubsequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\18.MaxSubsequence\bin\Debug\18.MaxSubsequence.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\18.MaxSubsequence\obj\Debug\18.MaxSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\18.MaxSubsequence\obj\Debug\18.MaxSubsequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\18.MaxSubsequence\obj\Debug\18.MaxSubsequence.pdb

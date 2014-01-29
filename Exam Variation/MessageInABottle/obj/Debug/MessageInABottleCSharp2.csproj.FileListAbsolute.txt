@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\MessageInABottle\bin\Debug\MessageInABottle.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\MessageInABottle\bin\Debug\MessageInABottle.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\MessageInABottle\bin\Debug\MessageInABottle.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\MessageInABottle\obj\Debug\MessageInABottle.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\MessageInABottle\obj\Debug\MessageInABottle.pdb

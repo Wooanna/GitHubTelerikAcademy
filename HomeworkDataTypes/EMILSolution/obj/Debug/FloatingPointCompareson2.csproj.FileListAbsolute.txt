@@ -1,0 +1,3 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EMILSolution\bin\Debug\EMILSolution.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EMILSolution\obj\Debug\EMILSolution.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\EMILSolution\obj\Debug\EMILSolution.pdb

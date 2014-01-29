@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\04.CountWorkDays\bin\Debug\04.CountWorkDays.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\04.CountWorkDays\bin\Debug\04.CountWorkDays.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\04.CountWorkDays\bin\Debug\04.CountWorkDays.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\04.CountWorkDays\obj\Debug\04.CountWorkDays.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\04.CountWorkDays\obj\Debug\04.CountWorkDays.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\04.CountWorkDays\obj\Debug\04.CountWorkDays.pdb

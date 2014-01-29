@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\09.SignedFloatingPointNumToBinary\bin\Debug\09.SignedFloatingPointNumToBinary.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\09.SignedFloatingPointNumToBinary\bin\Debug\09.SignedFloatingPointNumToBinary.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\09.SignedFloatingPointNumToBinary\bin\Debug\09.SignedFloatingPointNumToBinary.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\09.SignedFloatingPointNumToBinary\obj\Debug\09.SignedFloatingPointNumToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\09.SignedFloatingPointNumToBinary\obj\Debug\09.SignedFloatingPointNumToBinary.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkNumeralSystems\09.SignedFloatingPointNumToBinary\obj\Debug\09.SignedFloatingPointNumToBinary.pdb

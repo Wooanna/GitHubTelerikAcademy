@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\06.CreateAClassMatrix\bin\Debug\06.CreateAClassMatrix.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\06.CreateAClassMatrix\obj\Debug\06.CreateAClassMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\06.CreateAClassMatrix\bin\Debug\06.CreateAClassMatrix.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\06.CreateAClassMatrix\bin\Debug\06.CreateAClassMatrix.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\06.CreateAClassMatrix\obj\Debug\06.CreateAClassMatrix.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\06.CreateAClassMatrix\obj\Debug\06.CreateAClassMatrix.pdb

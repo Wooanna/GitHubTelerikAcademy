@@ -1,0 +1,3 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\PointInOrOutCircle\bin\Debug\PointInOrOutCircle.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\PointInOrOutCircle\obj\Debug\PointInOrOutCircle.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\PointInOrOutCircle\obj\Debug\PointInOrOutCircle.pdb

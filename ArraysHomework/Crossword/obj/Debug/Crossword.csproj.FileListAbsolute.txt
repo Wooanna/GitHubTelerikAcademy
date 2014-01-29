@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\Crossword\bin\Debug\Crossword.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\Crossword\bin\Debug\Crossword.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\Crossword\obj\Debug\Crossword.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\Crossword\obj\Debug\Crossword.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\Crossword\obj\Debug\Crossword.pdb

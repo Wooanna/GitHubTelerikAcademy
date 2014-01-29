@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\OddOrEven\obj\Debug\OddOrEven.pdb

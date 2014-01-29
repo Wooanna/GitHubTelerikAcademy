@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\ExchangingValues\bin\Debug\ExchangingValues.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\ExchangingValues\bin\Debug\ExchangingValues.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\ExchangingValues\bin\Debug\ExchangingValues.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\ExchangingValues\obj\Debug\ExchangingValues.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\ExchangingValues\obj\Debug\ExchangingValues.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\ExchangingValues\obj\Debug\ExchangingValues.pdb

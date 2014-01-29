@@ -1,0 +1,5 @@
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NotDevBy3And7\bin\Debug\NotDevBy3And7.exe.config
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NotDevBy3And7\bin\Debug\NotDevBy3And7.exe
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NotDevBy3And7\bin\Debug\NotDevBy3And7.pdb
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NotDevBy3And7\obj\Debug\NotDevBy3And7.exe
+c:\Users\Woo\documents\visual studio 2012\Projects\OneToN\NotDevBy3And7\obj\Debug\NotDevBy3And7.pdb

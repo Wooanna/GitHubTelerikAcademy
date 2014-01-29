@@ -1,0 +1,6 @@
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\playWithOperators\bin\Debug\playWithOperators.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\playWithOperators\bin\Debug\playWithOperators.exe
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\playWithOperators\bin\Debug\playWithOperators.pdb
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\playWithOperators\obj\Debug\playWithOperators.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\playWithOperators\obj\Debug\playWithOperators.exe
+c:\users\woo\documents\visual studio 2012\Projects\playWithOperators\playWithOperators\obj\Debug\playWithOperators.pdb

@@ -1,0 +1,9 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\bin\Debug\07.FindPathFrom3.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\obj\Debug\07.FindPathFrom3.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\obj\Debug\07.FindPathFrom3.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\bin\Debug\07.FindPathFrom3.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\bin\Debug\07.FindPathFrom3.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\07.FindPathFrom3\obj\Debug\07.MaxPlatform.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkMultidimentionalArrays\07.FindPathFrom3\bin\Debug\07.FindPathFrom3.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkMultidimentionalArrays\07.FindPathFrom3\obj\Debug\07.FindPathFrom3.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkMultidimentionalArrays\07.FindPathFrom3\obj\Debug\07.FindPathFrom3.pdb

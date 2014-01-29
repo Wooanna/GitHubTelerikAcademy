@@ -1,0 +1,9 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\02.MaxSquareInMatrix\bin\Debug\02.MaxSquareInMatrix.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\02.MaxSquareInMatrix\bin\Debug\02.MaxSquareInMatrix.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\02.MaxSquareInMatrix\bin\Debug\02.MaxSquareInMatrix.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\02.MaxSquareInMatrix\obj\Debug\02.MaxSquareInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\02.MaxSquareInMatrix\obj\Debug\02.MaxSquareInMatrix.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\HomeworkMultidimentionalArrays\02.MaxSquareInMatrix\obj\Debug\02.MaxSquareInMatrix.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkMultidimentionalArrays\02.MaxSquareInMatrix\bin\Debug\02.MaxSquareInMatrix.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkMultidimentionalArrays\02.MaxSquareInMatrix\obj\Debug\02.MaxSquareInMatrix.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\HomeworkMultidimentionalArrays\02.MaxSquareInMatrix\obj\Debug\02.MaxSquareInMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TribonacciTriangle\bin\Debug\TribonacciTriangle.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TribonacciTriangle\obj\Debug\TribonacciTriangleDONE.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb

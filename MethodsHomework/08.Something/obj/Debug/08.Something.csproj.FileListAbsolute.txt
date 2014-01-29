@@ -1,0 +1,5 @@
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.Something\bin\Debug\08.Something.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.Something\bin\Debug\08.Something.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.Something\bin\Debug\08.Something.pdb
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.Something\obj\Debug\08.Something.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.Something\obj\Debug\08.Something.pdb

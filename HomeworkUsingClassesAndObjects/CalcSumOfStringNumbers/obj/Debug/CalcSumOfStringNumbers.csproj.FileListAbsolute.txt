@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\bin\Debug\CalcSumOfStringNumbers.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\bin\Debug\CalcSumOfStringNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\bin\Debug\CalcSumOfStringNumbers.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\obj\Debug\CalcSumOfStringNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\obj\Debug\CalcSumOfStringNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkUsingClassesAndObjects\CalcSumOfStringNumbers\obj\Debug\CalcSumOfStringNumbers.pdb

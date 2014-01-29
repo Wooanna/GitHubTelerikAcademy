@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\PILLARS\bin\Debug\PILLARS.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\PILLARS\bin\Debug\PILLARS.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\PILLARS\bin\Debug\PILLARS.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\PILLARS\obj\Debug\PILLARS-DONE.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\PILLARS\obj\Debug\PILLARS.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\PILLARS\obj\Debug\PILLARS.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TheHorror\bin\Debug\TheHorror.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TheHorror\bin\Debug\TheHorror.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TheHorror\bin\Debug\TheHorror.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TheHorror\obj\Debug\TheHorror.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TheHorror\obj\Debug\TheHorror.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\TheHorror\obj\Debug\AATheHorror.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\001.NewArray\bin\Debug\001.NewArray.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\001.NewArray\bin\Debug\001.NewArray.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\001.NewArray\bin\Debug\001.NewArray.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\001.NewArray\obj\Debug\001.NewArray.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\001.NewArray\obj\Debug\001.NewArray.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\001.NewArray\obj\Debug\001.NewArray.pdb

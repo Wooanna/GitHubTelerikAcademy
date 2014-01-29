@@ -1,0 +1,12 @@
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\04.MaxSequenceOfEqualValues\bin\Debug\04.MaxSequenceOfEqualValues.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\04.MaxSequenceOfEqualValues\bin\Debug\04.MaxSequenceOfEqualValues.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\04.MaxSequenceOfEqualValues\bin\Debug\04.MaxSequenceOfEqualValues.pdb
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\04.MaxSequenceOfEqualValues\obj\Debug\04.MaxSequenceOfEqualValues.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\04.MaxSequenceOfEqualValues\obj\Debug\04.MaxSequenceOfEqualValues.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\04.MaxSequenceOfEqualValues\obj\Debug\04.MaxSequenceOfEqualValues.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\04.MaxSequenceOfEqualValues\bin\Debug\04.MaxSequenceOfEqualValues.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\04.MaxSequenceOfEqualValues\obj\Debug\04.MaxSequenceOfEqualValues.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\04.MaxSequenceOfEqualValues\obj\Debug\04.MaxSequenceOfEqualValues.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\04.MaxSequenceOfEqualValues\bin\Debug\04.MaxSequenceOfEqualValues.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\04.MaxSequenceOfEqualValues\bin\Debug\04.MaxSequenceOfEqualValues.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\04.MaxSequenceOfEqualValues\obj\Debug\04.MaxSequenceOfEqualValues.csprojResolveAssemblyReference.cache

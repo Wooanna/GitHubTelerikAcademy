@@ -1,0 +1,12 @@
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\06.FindMaximalSumSequence\bin\Debug\06.FindMaximalSumSequence.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\06.FindMaximalSumSequence\bin\Debug\06.FindMaximalSumSequence.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\06.FindMaximalSumSequence\bin\Debug\06.FindMaximalSumSequence.pdb
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\06.FindMaximalSumSequence\obj\Debug\06.FindMaximalSumSequence.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\06.FindMaximalSumSequence\obj\Debug\06.FindMaximalSumSequence.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\06.FindMaximalSumSequence\obj\Debug\06.FindMaximalSumSequence.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\06.FindMaximalSumSequence\bin\Debug\06.FindMaximalSumSequence.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\06.FindMaximalSumSequence\obj\Debug\06.FindMaximalSumSequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\06.FindMaximalSumSequence\obj\Debug\06.FindMaximalSumSequence.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\06.FindMaximalSumSequence\bin\Debug\06.FindMaximalSumSequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\06.FindMaximalSumSequence\bin\Debug\06.FindMaximalSumSequence.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\06.FindMaximalSumSequence\obj\Debug\06.FindMaximalSumSequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\08.FindMaxSumInArray\bin\Debug\08.FindMaxSumInArray.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\08.FindMaxSumInArray\bin\Debug\08.FindMaxSumInArray.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\08.FindMaxSumInArray\bin\Debug\08.FindMaxSumInArray.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\08.FindMaxSumInArray\obj\Debug\08.FindMaxSumInArray.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\08.FindMaxSumInArray\obj\Debug\08.FindMaxSumInArray.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\08.FindMaxSumInArray\obj\Debug\08.FindMaxSumInArray.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\08.FindMaxSumInArray\bin\Debug\08.FindMaxSumInArray.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\08.FindMaxSumInArray\obj\Debug\08.FindMaxSumInArray.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\08.FindMaxSumInArray\obj\Debug\08.FindMaxSumInArray.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\08.FindMaxSumInArray\bin\Debug\08.FindMaxSumInArray.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\08.FindMaxSumInArray\bin\Debug\08.FindMaxSumInArray.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\08.FindMaxSumInArray\obj\Debug\08.FindMaxSumInArray.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\08.FindMaxSumInArray\bin\Debug\08.FindMaxSumInArray.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\08.FindMaxSumInArray\obj\Debug\08.FindMaxSumInArray.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\08.FindMaxSumInArray\obj\Debug\08.FindMaxSumInArray.pdb

@@ -1,0 +1,12 @@
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.AddPositiveIntegersAsStrings\bin\Debug\08.AddPositiveIntegersAsStrings.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.AddPositiveIntegersAsStrings\bin\Debug\08.AddPositiveIntegersAsStrings.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.AddPositiveIntegersAsStrings\bin\Debug\08.AddPositiveIntegersAsStrings.pdb
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.AddPositiveIntegersAsStrings\obj\Debug\08.AddPositiveIntegersAsStrings.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.AddPositiveIntegersAsStrings\obj\Debug\08.AddPositiveIntegersAsStrings.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution2\08.AddPositiveIntegersAsStrings\obj\Debug\08.AddPositiveIntegersAsStrings.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\08.AddPositiveIntegersAsStrings\bin\Debug\08.AddPositiveIntegersAsStrings.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\08.AddPositiveIntegersAsStrings\obj\Debug\08.AddPositiveIntegersAsStrings.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\08.AddPositiveIntegersAsStrings\obj\Debug\08.AddPositiveIntegersAsStrings.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\08.AddPositiveIntegersAsStrings\bin\Debug\08.AddPositiveIntegersAsStrings.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\08.AddPositiveIntegersAsStrings\bin\Debug\08.AddPositiveIntegersAsStrings.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\MethodsHomework\08.AddPositiveIntegersAsStrings\obj\Debug\08.AddPositiveIntegersAsStrings.csprojResolveAssemblyReference.cache

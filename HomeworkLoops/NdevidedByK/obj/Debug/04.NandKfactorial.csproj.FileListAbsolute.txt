@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\NdevidedByK\bin\Debug\NdevidedByK.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\NdevidedByK\obj\Debug\NdevidedByK.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\NdevidedByK\obj\Debug\NdevidedByK.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\NdevidedByK\bin\Debug\NdevidedByK.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\NdevidedByK\bin\Debug\NdevidedByK.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\NdevidedByK\obj\Debug\04.NandKfactorial.csprojResolveAssemblyReference.cache

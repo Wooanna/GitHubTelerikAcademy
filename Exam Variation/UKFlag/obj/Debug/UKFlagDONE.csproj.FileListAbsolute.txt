@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\UKFlag\bin\Debug\UKFlag.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\UKFlag\bin\Debug\UKFlag.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\UKFlag\bin\Debug\UKFlag.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\UKFlag\obj\Debug\UKFlagDONE.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\UKFlag\obj\Debug\UKFlag.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\UKFlag\obj\Debug\UKFlag.pdb

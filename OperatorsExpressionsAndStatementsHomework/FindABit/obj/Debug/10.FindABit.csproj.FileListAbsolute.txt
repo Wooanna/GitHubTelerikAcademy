@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\FindABit\bin\Debug\FindABit.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\FindABit\obj\Debug\FindABit.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\FindABit\obj\Debug\FindABit.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\FindABit\bin\Debug\FindABit.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\FindABit\obj\Debug\FindABit.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\OperatorsExpressionsAndStatementsHomework\FindABit\obj\Debug\FindABit.pdb

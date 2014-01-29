@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\05.SortStringsArray\bin\Debug\05.SortStringsArray.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\05.SortStringsArray\bin\Debug\05.SortStringsArray.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\05.SortStringsArray\bin\Debug\05.SortStringsArray.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\05.SortStringsArray\obj\Debug\05.SortStringsArray.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\05.SortStringsArray\obj\Debug\05.SortStringsArray.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkMultidimentionalArrays\05.SortStringsArray\obj\Debug\05.SortStringsArray.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\BankAccount\obj\Debug\BankAccountRecords.csprojResolveAssemblyReference.cache

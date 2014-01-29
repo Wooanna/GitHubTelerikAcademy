@@ -1,0 +1,9 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\21.Combinations\bin\Debug\21.Combinations.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\21.Combinations\bin\Debug\21.Combinations.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\21.Combinations\bin\Debug\21.Combinations.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\21.Combinations\obj\Debug\21.Combinations.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\21.Combinations\obj\Debug\21.Combinations.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Solution1\21.Combinations\obj\Debug\21.Combinations.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\21.Combinations\bin\Debug\21.Combinations.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\21.Combinations\obj\Debug\21.Combinations.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\21.Combinations\obj\Debug\21.Combinations.pdb

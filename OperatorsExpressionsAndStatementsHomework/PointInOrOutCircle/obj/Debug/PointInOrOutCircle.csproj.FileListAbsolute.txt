@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\PointInOrOutCircle\bin\Debug\PointInOrOutCircle.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\PointInOrOutCircle\bin\Debug\PointInOrOutCircle.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\PointInOrOutCircle\bin\Debug\PointInOrOutCircle.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\PointInOrOutCircle\obj\Debug\PointInOrOutCircle.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\PointInOrOutCircle\obj\Debug\PointInOrOutCircle.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\playWithOperators\PointInOrOutCircle\obj\Debug\PointInOrOutCircle.pdb

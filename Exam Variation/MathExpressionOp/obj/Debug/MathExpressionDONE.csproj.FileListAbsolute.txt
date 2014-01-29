@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\MathExpressionOp\bin\Debug\MathExpressionOp.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\MathExpressionOp\bin\Debug\MathExpressionOp.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\MathExpressionOp\bin\Debug\MathExpressionOp.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\MathExpressionOp\obj\Debug\MathExpressionOp.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\MathExpressionOp\obj\Debug\MathExpressionOp.pdb

@@ -1,0 +1,9 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\16.SubsetSum\bin\Debug\16.SubsetSum.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\16.SubsetSum\bin\Debug\16.SubsetSum.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\16.SubsetSum\bin\Debug\16.SubsetSum.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\16.SubsetSum\obj\Debug\16.SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\16.SubsetSum\obj\Debug\16.SubsetSum.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\16.SubsetSum\obj\Debug\16.SubsetSum.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\16.SubsetSum\bin\Debug\16.SubsetSum.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\16.SubsetSum\obj\Debug\16.SubsetSum.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\GitHubTelerikAcademy\ArraysHomework\16.SubsetSum\obj\Debug\16.SubsetSum.pdb

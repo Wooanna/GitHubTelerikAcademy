@@ -1,0 +1,3 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\playWithOperators\bin\Debug\playWithOperators.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\playWithOperators\obj\Debug\playWithOperators.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\playWithOperators\playWithOperators\obj\Debug\playWithOperators.pdb

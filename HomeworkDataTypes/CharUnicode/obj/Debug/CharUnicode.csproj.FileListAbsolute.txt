@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\CharUnicode\bin\Debug\CharUnicode.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\CharUnicode\bin\Debug\CharUnicode.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\CharUnicode\bin\Debug\CharUnicode.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\CharUnicode\obj\Debug\CharUnicode.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\CharUnicode\obj\Debug\CharUnicode.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\CharUnicode\obj\Debug\CharUnicode.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsoscalesTriangleFromCopyright\bin\Debug\IsoscalesTriangleFromCopyright.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsoscalesTriangleFromCopyright\bin\Debug\IsoscalesTriangleFromCopyright.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsoscalesTriangleFromCopyright\bin\Debug\IsoscalesTriangleFromCopyright.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsoscalesTriangleFromCopyright\obj\Debug\IsoscalesTriangleFromCopyright.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsoscalesTriangleFromCopyright\obj\Debug\IsoscalesTriangleFromCopyright.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\ConsoleApplication1\IsoscalesTriangleFromCopyright\obj\Debug\IsoscalesTriangleFromCopyright.pdb

@@ -1,0 +1,12 @@
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\19.Permutations\bin\Debug\19.Permutations.exe.config
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\19.Permutations\bin\Debug\19.Permutations.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\19.Permutations\bin\Debug\19.Permutations.pdb
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\19.Permutations\obj\Debug\19.PermutationsNOTDONE.csprojResolveAssemblyReference.cache
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\19.Permutations\obj\Debug\19.Permutations.exe
+C:\Users\Woo\documents\visual studio 2012\Projects\Solution1\19.Permutations\obj\Debug\19.Permutations.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\19.Permutations\bin\Debug\19.Permutations.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\19.Permutations\obj\Debug\19.Permutations.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\19.Permutations\obj\Debug\19.Permutations.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\19.Permutations\bin\Debug\19.Permutations.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\19.Permutations\bin\Debug\19.Permutations.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\19.Permutations\obj\Debug\19.PermutationsNOTDONE.csprojResolveAssemblyReference.cache

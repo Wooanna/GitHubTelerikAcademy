@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\07. FibonacciSequence\bin\Debug\_07.FibonacciSequence.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\07. FibonacciSequence\bin\Debug\_07.FibonacciSequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\07. FibonacciSequence\bin\Debug\_07.FibonacciSequence.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\07. FibonacciSequence\obj\Debug\07. FibonacciSequence.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\07. FibonacciSequence\obj\Debug\_07.FibonacciSequence.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\HomeworkLoops\07. FibonacciSequence\obj\Debug\_07.FibonacciSequence.pdb

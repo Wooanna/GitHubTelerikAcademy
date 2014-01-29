@@ -1,0 +1,12 @@
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\07.SortAnArray\bin\Debug\07.SortAnArray.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\07.SortAnArray\bin\Debug\07.SortAnArray.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\07.SortAnArray\bin\Debug\07.SortAnArray.pdb
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\07.SortAnArray\obj\Debug\07.SortAnArray.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\07.SortAnArray\obj\Debug\07.SortAnArray.exe
+c:\users\woo\documents\visual studio 2012\Projects\Solution1\07.SortAnArray\obj\Debug\07.SortAnArray.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\07.SortAnArray\bin\Debug\07.SortAnArray.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\07.SortAnArray\obj\Debug\07.SortAnArray.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\07.SortAnArray\obj\Debug\07.SortAnArray.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\07.SortAnArray\bin\Debug\07.SortAnArray.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\07.SortAnArray\bin\Debug\07.SortAnArray.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ArraysHomework\07.SortAnArray\obj\Debug\07.SortAnArray.csprojResolveAssemblyReference.cache

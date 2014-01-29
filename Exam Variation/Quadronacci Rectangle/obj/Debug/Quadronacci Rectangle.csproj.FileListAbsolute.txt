@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Quadronacci Rectangle\bin\Debug\Quadronacci Rectangle.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Quadronacci Rectangle\bin\Debug\Quadronacci Rectangle.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Quadronacci Rectangle\bin\Debug\Quadronacci Rectangle.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Quadronacci Rectangle\obj\Debug\Quadronacci Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Quadronacci Rectangle\obj\Debug\Quadronacci Rectangle.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\Exam Variation\Quadronacci Rectangle\obj\Debug\Quadronacci Rectangle.pdb
