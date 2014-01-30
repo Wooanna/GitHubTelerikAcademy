@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\23.Encode\bin\Debug\23.Encode.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\23.Encode\bin\Debug\23.Encode.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\23.Encode\bin\Debug\23.Encode.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\23.Encode\obj\Debug\23.Encode.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\23.Encode\obj\Debug\23.Encode.pdb

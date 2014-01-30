@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\05.HTMLTags\bin\Debug\05.HTMLTags.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\05.HTMLTags\bin\Debug\05.HTMLTags.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\05.HTMLTags\bin\Debug\05.HTMLTags.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\05.HTMLTags\obj\Debug\05.HTMLTags.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\05.HTMLTags\obj\Debug\05.HTMLTags.pdb

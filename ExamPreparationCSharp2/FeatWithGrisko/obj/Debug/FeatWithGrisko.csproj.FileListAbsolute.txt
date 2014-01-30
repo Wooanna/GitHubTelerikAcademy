@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FeatWithGrisko\bin\Debug\FeatWithGrisko.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FeatWithGrisko\bin\Debug\FeatWithGrisko.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FeatWithGrisko\bin\Debug\FeatWithGrisko.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FeatWithGrisko\obj\Debug\FeatWithGrisko.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FeatWithGrisko\obj\Debug\FeatWithGrisko.pdb

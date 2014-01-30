@@ -1,0 +1,9 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.REpresentNumbersWithWords\bin\Debug\11.REpresentNumbersWithWords.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.REpresentNumbersWithWords\bin\Debug\11.REpresentNumbersWithWords.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.REpresentNumbersWithWords\bin\Debug\11.REpresentNumbersWithWords.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.REpresentNumbersWithWords\obj\Debug\11.REpresentNumbersWithWords.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.REpresentNumbersWithWords\obj\Debug\11.REpresentNumbersWithWords.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.REpresentNumbersWithWords\obj\Debug\11.REpresentNumbersWithWords.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\11.REpresentNumbersWithWords\bin\Debug\11.REpresentNumbersWithWords.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\11.REpresentNumbersWithWords\obj\Debug\11.REpresentNumbersWithWords.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\11.REpresentNumbersWithWords\obj\Debug\11.REpresentNumbersWithWords.pdb

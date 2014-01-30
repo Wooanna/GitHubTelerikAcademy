@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\16.CalcDays\bin\Debug\16.CalcDays.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\16.CalcDays\bin\Debug\16.CalcDays.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\16.CalcDays\bin\Debug\16.CalcDays.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\16.CalcDays\obj\Debug\16.CalcDays.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\16.CalcDays\obj\Debug\16.CalcDays.pdb

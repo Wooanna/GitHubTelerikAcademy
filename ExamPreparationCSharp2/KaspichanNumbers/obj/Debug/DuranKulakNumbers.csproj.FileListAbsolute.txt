@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanNumbers\bin\Debug\KaspichanNumbers.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanNumbers\obj\Debug\DuranKulakNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanNumbers\obj\Debug\KaspichanNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanNumbers\obj\Debug\KaspichanNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\Tubes\bin\Debug\Tubes.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\Tubes\obj\Debug\Tubes.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\Tubes\obj\Debug\Tubes.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\Tubes\bin\Debug\Tubes.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\Tubes\bin\Debug\Tubes.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\Tubes\obj\Debug\Tubes100.csprojResolveAssemblyReference.cache

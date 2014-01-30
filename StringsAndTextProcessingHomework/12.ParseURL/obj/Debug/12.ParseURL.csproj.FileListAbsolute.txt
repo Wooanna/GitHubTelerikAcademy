@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\12.ParseURL\bin\Debug\12.ParseURL.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\12.ParseURL\bin\Debug\12.ParseURL.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\12.ParseURL\bin\Debug\12.ParseURL.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\12.ParseURL\obj\Debug\12.ParseURL.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\12.ParseURL\obj\Debug\12.ParseURL.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\12.ParseURL\obj\Debug\12.ParseURL.pdb

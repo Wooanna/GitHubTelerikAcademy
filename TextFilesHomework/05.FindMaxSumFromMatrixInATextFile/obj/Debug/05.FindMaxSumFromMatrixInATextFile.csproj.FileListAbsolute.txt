@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\05.FindMaxSumFromMatrixInATextFile\bin\Debug\05.FindMaxSumFromMatrixInATextFile.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\05.FindMaxSumFromMatrixInATextFile\bin\Debug\05.FindMaxSumFromMatrixInATextFile.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\05.FindMaxSumFromMatrixInATextFile\bin\Debug\05.FindMaxSumFromMatrixInATextFile.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\05.FindMaxSumFromMatrixInATextFile\obj\Debug\05.FindMaxSumFromMatrixInATextFile.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\05.FindMaxSumFromMatrixInATextFile\obj\Debug\05.FindMaxSumFromMatrixInATextFile.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\05.FindMaxSumFromMatrixInATextFile\obj\Debug\05.FindMaxSumFromMatrixInATextFile.csprojResolveAssemblyReference.cache

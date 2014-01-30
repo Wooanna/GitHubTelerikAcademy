@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\01.PrintSquareRoot\bin\Debug\01.PrintSquareRoot.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\01.PrintSquareRoot\bin\Debug\01.PrintSquareRoot.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\01.PrintSquareRoot\bin\Debug\01.PrintSquareRoot.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\01.PrintSquareRoot\obj\Debug\01.PrintSquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\01.PrintSquareRoot\obj\Debug\01.PrintSquareRoot.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\01.PrintSquareRoot\obj\Debug\01.PrintSquareRoot.pdb

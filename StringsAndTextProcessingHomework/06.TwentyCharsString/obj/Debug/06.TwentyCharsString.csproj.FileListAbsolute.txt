@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\06.TwentyCharsString\bin\Debug\06.TwentyCharsString.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\06.TwentyCharsString\bin\Debug\06.TwentyCharsString.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\06.TwentyCharsString\bin\Debug\06.TwentyCharsString.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\06.TwentyCharsString\obj\Debug\06.TwentyCharsString.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\06.TwentyCharsString\obj\Debug\06.TwentyCharsString.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\06.TwentyCharsString\obj\Debug\06.TwentyCharsString.pdb

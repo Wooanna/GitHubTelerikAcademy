@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MovingLetters\bin\Debug\MovingLetters.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MovingLetters\obj\Debug\MovingLetters.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MovingLetters\obj\Debug\MovingLetters.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MovingLetters\bin\Debug\MovingLetters.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MovingLetters\bin\Debug\MovingLetters.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MovingLetters\obj\Debug\MovingLetters100.csprojResolveAssemblyReference.cache

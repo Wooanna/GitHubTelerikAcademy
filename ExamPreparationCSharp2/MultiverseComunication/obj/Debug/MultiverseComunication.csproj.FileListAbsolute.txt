@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MultiverseComunication\bin\Debug\MultiverseComunication.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MultiverseComunication\obj\Debug\MultiverseComunication.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MultiverseComunication\bin\Debug\MultiverseComunication.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MultiverseComunication\bin\Debug\MultiverseComunication.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MultiverseComunication\obj\Debug\MultiverseComunication.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\MultiverseComunication\obj\Debug\MultiverseComunication.pdb

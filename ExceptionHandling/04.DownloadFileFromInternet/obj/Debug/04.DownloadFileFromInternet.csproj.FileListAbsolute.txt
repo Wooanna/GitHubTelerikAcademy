@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExceptionHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.pdb

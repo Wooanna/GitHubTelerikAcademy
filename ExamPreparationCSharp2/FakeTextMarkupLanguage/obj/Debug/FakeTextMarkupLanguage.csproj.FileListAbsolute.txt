@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkupLanguage\bin\Debug\FakeTextMarkupLanguage.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkupLanguage\bin\Debug\FakeTextMarkupLanguage.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkupLanguage\bin\Debug\FakeTextMarkupLanguage.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkupLanguage\obj\Debug\FakeTextMarkupLanguage.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkupLanguage\obj\Debug\FakeTextMarkupLanguage.pdb

@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.pdb

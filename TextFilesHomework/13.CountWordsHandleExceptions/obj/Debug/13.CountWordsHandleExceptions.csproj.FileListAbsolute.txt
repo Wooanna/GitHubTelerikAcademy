@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\13.CountWordsHandleExceptions\bin\Debug\13.CountWordsHandleExceptions.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\13.CountWordsHandleExceptions\bin\Debug\13.CountWordsHandleExceptions.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\13.CountWordsHandleExceptions\bin\Debug\13.CountWordsHandleExceptions.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\13.CountWordsHandleExceptions\obj\Debug\13.CountWordsHandleExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\13.CountWordsHandleExceptions\obj\Debug\13.CountWordsHandleExceptions.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\13.CountWordsHandleExceptions\obj\Debug\13.CountWordsHandleExceptions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.pdb

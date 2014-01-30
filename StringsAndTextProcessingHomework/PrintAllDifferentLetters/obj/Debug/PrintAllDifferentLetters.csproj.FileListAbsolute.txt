@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\PrintAllDifferentLetters\bin\Debug\PrintAllDifferentLetters.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\PrintAllDifferentLetters\bin\Debug\PrintAllDifferentLetters.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\PrintAllDifferentLetters\bin\Debug\PrintAllDifferentLetters.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\PrintAllDifferentLetters\obj\Debug\PrintAllDifferentLetters.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\PrintAllDifferentLetters\obj\Debug\PrintAllDifferentLetters.pdb

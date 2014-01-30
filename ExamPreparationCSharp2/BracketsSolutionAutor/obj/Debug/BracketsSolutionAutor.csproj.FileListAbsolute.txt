@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsSolutionAutor\bin\Debug\BracketsSolutionAutor.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsSolutionAutor\bin\Debug\BracketsSolutionAutor.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsSolutionAutor\bin\Debug\BracketsSolutionAutor.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsSolutionAutor\obj\Debug\BracketsSolutionAutor.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsSolutionAutor\obj\Debug\BracketsSolutionAutor.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsSolutionAutor\obj\Debug\BracketsSolutionAutor.pdb

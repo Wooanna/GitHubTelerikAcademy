@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\18.ExtractEmailAddress\bin\Debug\18.ExtractEmailAddress.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\18.ExtractEmailAddress\bin\Debug\18.ExtractEmailAddress.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\18.ExtractEmailAddress\bin\Debug\18.ExtractEmailAddress.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\18.ExtractEmailAddress\obj\Debug\18.ExtractEmailAddress.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\18.ExtractEmailAddress\obj\Debug\18.ExtractEmailAddress.pdb

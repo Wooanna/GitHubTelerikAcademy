@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\17.DayWeek\bin\Debug\17.DayWeek.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\17.DayWeek\bin\Debug\17.DayWeek.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\17.DayWeek\bin\Debug\17.DayWeek.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\17.DayWeek\obj\Debug\17.DayWeek.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\17.DayWeek\obj\Debug\17.DayWeek.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\17.DayWeek\obj\Debug\17.DayWeek.pdb

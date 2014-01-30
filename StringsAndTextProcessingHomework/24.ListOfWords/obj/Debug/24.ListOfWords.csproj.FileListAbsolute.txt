@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\24.ListOfWords\bin\Debug\24.ListOfWords.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\24.ListOfWords\bin\Debug\24.ListOfWords.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\24.ListOfWords\bin\Debug\24.ListOfWords.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\24.ListOfWords\obj\Debug\24.ListOfWords.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\24.ListOfWords\obj\Debug\24.ListOfWords.pdb

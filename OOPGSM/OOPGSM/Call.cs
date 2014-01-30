@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//8 .Create a class Call to hold a call performed through a GSM. 
+//It should contain date, time, dialed phone number and duration (in seconds).
+
 namespace OOPGSM
 {
     class Call
@@ -46,7 +49,7 @@ namespace OOPGSM
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    throw new ArgumentException("There must have a phone number");
+                    throw new ArgumentException("There must be a phone number");
                 }
                 if (value.Length < 7)
                 {

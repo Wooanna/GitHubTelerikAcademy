@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\ConsoleJustificationSmart\bin\Debug\ConsoleJustificationSmart.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\ConsoleJustificationSmart\bin\Debug\ConsoleJustificationSmart.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\ConsoleJustificationSmart\bin\Debug\ConsoleJustificationSmart.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\ConsoleJustificationSmart\obj\Debug\ConsoleJustificationSmart.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\ConsoleJustificationSmart\obj\Debug\ConsoleJustificationSmart.pdb

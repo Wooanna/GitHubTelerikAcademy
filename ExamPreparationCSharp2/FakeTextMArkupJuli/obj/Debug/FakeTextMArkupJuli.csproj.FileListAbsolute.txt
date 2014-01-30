@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMArkupJuli\bin\Debug\FakeTextMArkupJuli.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMArkupJuli\bin\Debug\FakeTextMArkupJuli.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMArkupJuli\bin\Debug\FakeTextMArkupJuli.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMArkupJuli\obj\Debug\FakeTextMArkupJuli.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMArkupJuli\obj\Debug\FakeTextMArkupJuli.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMArkupJuli\obj\Debug\FakeTextMArkupJuli.pdb

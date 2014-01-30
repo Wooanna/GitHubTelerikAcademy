@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\GenomeDecoder\bin\Debug\GenomeDecoder.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\GenomeDecoder\bin\Debug\GenomeDecoder.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\GenomeDecoder\bin\Debug\GenomeDecoder.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\GenomeDecoder\obj\Debug\GenomeDecoder.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\GenomeDecoder\obj\Debug\GenomeDecoder.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\20.Palindromes\bin\Debug\20.Palindromes.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\20.Palindromes\bin\Debug\20.Palindromes.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\20.Palindromes\bin\Debug\20.Palindromes.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\20.Palindromes\obj\Debug\20.Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\20.Palindromes\obj\Debug\20.Palindromes.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\20.Palindromes\obj\Debug\20.Palindromes.pdb

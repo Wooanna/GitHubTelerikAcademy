@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KukataIsDancing\bin\Debug\KukataIsDancing.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KukataIsDancing\bin\Debug\KukataIsDancing.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KukataIsDancing\bin\Debug\KukataIsDancing.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KukataIsDancing\obj\Debug\KukataIsDancing.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KukataIsDancing\obj\Debug\KukataIsDancing.pdb

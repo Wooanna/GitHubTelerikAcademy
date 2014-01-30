@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\11.OutputDifferent\bin\Debug\11.OutputDifferent.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\11.OutputDifferent\bin\Debug\11.OutputDifferent.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\11.OutputDifferent\bin\Debug\11.OutputDifferent.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\11.OutputDifferent\obj\Debug\11.OutputDifferent.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\11.OutputDifferent\obj\Debug\11.OutputDifferent.pdb

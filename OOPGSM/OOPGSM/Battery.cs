@@ -8,24 +8,37 @@ namespace OOPGSM
 {
     class Battery
     {
-        private BatteryType type;
-        private int hoursIdle;
-        private BatteryColor color;
-        private int hoursTalk;
+        //fields
+        private BatteryType? type;
+        private int? hoursIdle;
+        private BatteryColor? color;
+        private int? hoursTalk;
 
-        public BatteryType Type
+        //constructor
+        public Battery(BatteryType? type = null, BatteryColor? color = null, int? hoursIdle = null, int? hoursTalk = null)
         {
-            get { return this.type; }
+            this.type = type;
+            this.color = color;
+            this.hoursIdle = hoursIdle;
+            this.hoursTalk = hoursTalk;
+
+
+        }
+
+        //properties
+        public BatteryType? Type
+        {
+            get { return type; }
             set { this.type = value; }
         }
 
-        public BatteryColor Color
+        public BatteryColor? Color
         {
             get { return this.color; }
             set { this.color = value; }
         }
 
-        public int HoursTalk
+        public int? HoursTalk
         {
             get { return hoursTalk; }
             set
@@ -38,7 +51,7 @@ namespace OOPGSM
             }
         }
 
-        public int HoursIdle
+        public int? HoursIdle
         {
             get { return hoursIdle; }
             set
@@ -51,7 +64,22 @@ namespace OOPGSM
             }
         }
 
-
-
+        public override string ToString()
+        {
+            StringBuilder batteryInfo = new StringBuilder();
+            batteryInfo.Append("-------- ");
+            batteryInfo.Append("\nBattery: ");
+            batteryInfo.Append("\n-------- ");
+            batteryInfo.Append("\nBattery Type: ");
+            batteryInfo.Append(this.Type);
+            batteryInfo.Append("\nHours Talk: ");
+            batteryInfo.Append(this.hoursTalk);
+            batteryInfo.Append("\nHours Idle: ");
+            batteryInfo.Append(this.HoursIdle);
+            batteryInfo.Append("\nColor: ");
+            batteryInfo.Append(this.Color);
+            batteryInfo.Append(Environment.NewLine);
+            return batteryInfo.ToString();
+        }
     }
 }

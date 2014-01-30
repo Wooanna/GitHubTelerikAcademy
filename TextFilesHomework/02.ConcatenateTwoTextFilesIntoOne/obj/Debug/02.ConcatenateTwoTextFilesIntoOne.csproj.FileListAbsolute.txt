@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\02.ConcatenateTwoTextFilesIntoOne\bin\Debug\02.ConcatenateTwoTextFilesIntoOne.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\02.ConcatenateTwoTextFilesIntoOne\bin\Debug\02.ConcatenateTwoTextFilesIntoOne.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\02.ConcatenateTwoTextFilesIntoOne\bin\Debug\02.ConcatenateTwoTextFilesIntoOne.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\02.ConcatenateTwoTextFilesIntoOne\obj\Debug\02.ConcatenateTwoTextFilesIntoOne.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\02.ConcatenateTwoTextFilesIntoOne\obj\Debug\02.ConcatenateTwoTextFilesIntoOne.pdb

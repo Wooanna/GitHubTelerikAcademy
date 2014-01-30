@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\01.ReadTextFile\bin\Debug\01.ReadTextFile.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\01.ReadTextFile\bin\Debug\01.ReadTextFile.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\01.ReadTextFile\bin\Debug\01.ReadTextFile.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\01.ReadTextFile\obj\Debug\01.ReadTextFile.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\01.ReadTextFile\obj\Debug\01.ReadTextFile.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\01.ReadTextFile\obj\Debug\01.ReadTextFile.pdb

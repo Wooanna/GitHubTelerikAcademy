@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\15.REplaceTags\bin\Debug\15.REplaceTags.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\15.REplaceTags\bin\Debug\15.REplaceTags.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\15.REplaceTags\bin\Debug\15.REplaceTags.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\15.REplaceTags\obj\Debug\15.REplaceTags.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\15.REplaceTags\obj\Debug\15.REplaceTags.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsOneDimmArra\bin\Debug\BracketsOneDimmArra.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsOneDimmArra\bin\Debug\BracketsOneDimmArra.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsOneDimmArra\bin\Debug\BracketsOneDimmArra.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsOneDimmArra\obj\Debug\BracketsOneDimmArra.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsOneDimmArra\obj\Debug\BracketsOneDimmArra.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BracketsOneDimmArra\obj\Debug\BracketsOneDimmArra.pdb

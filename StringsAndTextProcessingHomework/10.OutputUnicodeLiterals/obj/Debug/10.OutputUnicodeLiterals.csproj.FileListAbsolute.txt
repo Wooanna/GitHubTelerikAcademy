@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\10.OutputUnicodeLiterals\bin\Debug\10.OutputUnicodeLiterals.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\10.OutputUnicodeLiterals\bin\Debug\10.OutputUnicodeLiterals.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\10.OutputUnicodeLiterals\bin\Debug\10.OutputUnicodeLiterals.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\10.OutputUnicodeLiterals\obj\Debug\10.OutputUnicodeLiterals.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\10.OutputUnicodeLiterals\obj\Debug\10.OutputUnicodeLiterals.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\10.OutputUnicodeLiterals\obj\Debug\10.OutputUnicodeLiterals.csprojResolveAssemblyReference.cache

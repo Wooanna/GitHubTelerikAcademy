@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\03.Brackets\bin\Debug\03.Brackets.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\03.Brackets\bin\Debug\03.Brackets.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\03.Brackets\bin\Debug\03.Brackets.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\03.Brackets\obj\Debug\03.Brackets.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\03.Brackets\obj\Debug\03.Brackets.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\03.Brackets\obj\Debug\03.Brackets.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\04.EqualOrNotEqual\bin\Debug\04.EqualOrNotEqual.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\04.EqualOrNotEqual\bin\Debug\04.EqualOrNotEqual.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\04.EqualOrNotEqual\bin\Debug\04.EqualOrNotEqual.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\04.EqualOrNotEqual\obj\Debug\04.EqualOrNotEqual.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\04.EqualOrNotEqual\obj\Debug\04.EqualOrNotEqual.pdb

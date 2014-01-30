@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\MethodsTry\bin\Debug\MethodsTry.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\MethodsTry\obj\Debug\MethodsTry.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\MethodsTry\bin\Debug\MethodsTry.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\MethodsTry\bin\Debug\MethodsTry.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\MethodsTry\obj\Debug\MethodsTry.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\MethodsTry\obj\Debug\MethodsTry.pdb

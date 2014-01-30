@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\SevenSegmentsDisplay\bin\Debug\SevenSegmentsDisplay.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\SevenSegmentsDisplay\bin\Debug\SevenSegmentsDisplay.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\SevenSegmentsDisplay\bin\Debug\SevenSegmentsDisplay.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\SevenSegmentsDisplay\obj\Debug\SevenSegmentsDisplay.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\SevenSegmentsDisplay\obj\Debug\SevenSegmentsDisplay.pdb

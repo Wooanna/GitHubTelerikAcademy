@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\08.ExtractSentences\bin\Debug\08.ExtractSentences.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\08.ExtractSentences\bin\Debug\08.ExtractSentences.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\08.ExtractSentences\obj\Debug\08.ExtractSentences.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\08.ExtractSentences\obj\Debug\08.ExtractSentences.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\08.ExtractSentences\obj\Debug\08.ExtractSentences.pdb

@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\11.DeleteTestWords\bin\Debug\11.DeleteTestWords.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\11.DeleteTestWords\bin\Debug\11.DeleteTestWords.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\11.DeleteTestWords\bin\Debug\11.DeleteTestWords.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\11.DeleteTestWords\obj\Debug\11.DeleteTestWords.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\11.DeleteTestWords\obj\Debug\11.DeleteTestWords.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\11.DeleteTestWords\obj\Debug\11.DeleteTestWords.pdb

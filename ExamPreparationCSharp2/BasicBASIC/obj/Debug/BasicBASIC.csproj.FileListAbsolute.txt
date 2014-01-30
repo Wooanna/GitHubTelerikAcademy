@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BasicBASIC\bin\Debug\BasicBASIC.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BasicBASIC\bin\Debug\BasicBASIC.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BasicBASIC\bin\Debug\BasicBASIC.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BasicBASIC\obj\Debug\BasicBASIC.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BasicBASIC\obj\Debug\BasicBASIC.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\BasicBASIC\obj\Debug\BasicBASIC.pdb

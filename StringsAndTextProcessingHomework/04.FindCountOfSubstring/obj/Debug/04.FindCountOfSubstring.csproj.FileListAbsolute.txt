@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\04.FindCountOfSubstring\bin\Debug\04.FindCountOfSubstring.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\04.FindCountOfSubstring\bin\Debug\04.FindCountOfSubstring.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\04.FindCountOfSubstring\bin\Debug\04.FindCountOfSubstring.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\04.FindCountOfSubstring\obj\Debug\04.FindCountOfSubstring.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\04.FindCountOfSubstring\obj\Debug\04.FindCountOfSubstring.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\04.FindCountOfSubstring\obj\Debug\04.FindCountOfSubstring.pdb

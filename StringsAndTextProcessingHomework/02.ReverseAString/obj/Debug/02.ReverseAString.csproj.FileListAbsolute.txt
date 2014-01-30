@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\02.ReverseAString\bin\Debug\02.ReverseAString.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\02.ReverseAString\obj\Debug\02.ReverseAString.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\02.ReverseAString\bin\Debug\02.ReverseAString.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\02.ReverseAString\bin\Debug\02.ReverseAString.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\02.ReverseAString\obj\Debug\02.ReverseAString.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\StringsAndTextProcessingHomework\02.ReverseAString\obj\Debug\02.ReverseAString.pdb

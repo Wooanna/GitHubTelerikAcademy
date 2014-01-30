@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\12.RemoveWordsFromTextFile\bin\Debug\12.RemoveWordsFromTextFile.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\12.RemoveWordsFromTextFile\obj\Debug\12.RemoveWordsFromTextFile.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\12.RemoveWordsFromTextFile\bin\Debug\12.RemoveWordsFromTextFile.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\12.RemoveWordsFromTextFile\bin\Debug\12.RemoveWordsFromTextFile.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\12.RemoveWordsFromTextFile\obj\Debug\12.RemoveWordsFromTextFile.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\12.RemoveWordsFromTextFile\obj\Debug\12.RemoveWordsFromTextFile.pdb

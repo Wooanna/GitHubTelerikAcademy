@@ -1,0 +1,9 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\08.DoubleIntOrString\bin\Debug\08.DoubleIntOrString.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\08.DoubleIntOrString\bin\Debug\08.DoubleIntOrString.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\08.DoubleIntOrString\bin\Debug\08.DoubleIntOrString.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\08.DoubleIntOrString\obj\Debug\08.DoubleIntOrString.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\08.DoubleIntOrString\obj\Debug\08.DoubleIntOrString.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\08.DoubleIntOrString\obj\Debug\08.DoubleIntOrString.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\08.DoubleIntOrString\bin\Debug\08.DoubleIntOrString.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\08.DoubleIntOrString\obj\Debug\08.DoubleIntOrString.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\08.DoubleIntOrString\obj\Debug\08.DoubleIntOrString.pdb

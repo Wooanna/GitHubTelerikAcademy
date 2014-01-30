@@ -1,0 +1,12 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09\bin\Debug\09.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09\obj\Debug\09.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09\obj\Debug\09.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09\obj\Debug\09.DeleteOddLinesInTextFile.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09\bin\Debug\09.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09\bin\Debug\09.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09.DeleteOddLinesInTextFile\bin\Debug\09.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09.DeleteOddLinesInTextFile\obj\Debug\09.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09.DeleteOddLinesInTextFile\obj\Debug\09.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09.DeleteOddLinesInTextFile\bin\Debug\09.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09.DeleteOddLinesInTextFile\bin\Debug\09.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\09.DeleteOddLinesInTextFile\obj\Debug\09.DeleteOddLinesInTextFile.csprojResolveAssemblyReference.cache

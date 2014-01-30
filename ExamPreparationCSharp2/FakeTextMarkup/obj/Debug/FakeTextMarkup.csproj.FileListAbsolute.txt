@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkup\bin\Debug\FakeTextMarkup.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkup\bin\Debug\FakeTextMarkup.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkup\bin\Debug\FakeTextMarkup.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkup\obj\Debug\FakeTextMarkup.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkup\obj\Debug\FakeTextMarkup.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\FakeTextMarkup\obj\Debug\FakeTextMarkup.pdb

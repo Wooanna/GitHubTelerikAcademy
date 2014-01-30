@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\06.SortNames\bin\Debug\06.SortNames.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\06.SortNames\bin\Debug\06.SortNames.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\06.SortNames\bin\Debug\06.SortNames.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\06.SortNames\obj\Debug\06.SortNames.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\06.SortNames\obj\Debug\06.SortNames.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\06.SortNames\obj\Debug\06.SortNames.pdb

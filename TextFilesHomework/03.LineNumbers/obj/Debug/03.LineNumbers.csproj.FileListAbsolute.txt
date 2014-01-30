@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\03.LineNumbers\bin\Debug\03.LineNumbers.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\03.LineNumbers\bin\Debug\03.LineNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\03.LineNumbers\bin\Debug\03.LineNumbers.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\03.LineNumbers\obj\Debug\03.LineNumbers.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\03.LineNumbers\obj\Debug\03.LineNumbers.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\03.LineNumbers\obj\Debug\03.LineNumbers.csprojResolveAssemblyReference.cache

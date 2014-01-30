@@ -1,0 +1,12 @@
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\02.ShowSigns\bin\Debug\02.ShowSigns.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\02.ShowSigns\obj\Debug\02.ShowSigns.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\02.ShowSigns\bin\Debug\02.ShowSigns.exe
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\02.ShowSigns\bin\Debug\02.ShowSigns.pdb
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\02.ShowSigns\obj\Debug\02.ShowSigns.exe
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\02.ShowSigns\obj\Debug\02.ShowSigns.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\02.ShowSigns\bin\Debug\02.ShowSigns.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\02.ShowSigns\bin\Debug\02.ShowSigns.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\02.ShowSigns\bin\Debug\02.ShowSigns.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\02.ShowSigns\obj\Debug\02.ShowSigns.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\02.ShowSigns\obj\Debug\02.ShowSigns.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatementsHomework\02.ShowSigns\obj\Debug\02.ShowSigns.pdb

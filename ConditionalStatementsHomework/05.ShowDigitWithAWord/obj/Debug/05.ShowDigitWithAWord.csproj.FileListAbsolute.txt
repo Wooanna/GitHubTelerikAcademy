@@ -1,0 +1,3 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\ShowDigitWithAWord\bin\Debug\ShowDigitWithAWord.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\ShowDigitWithAWord\obj\Debug\ShowDigitWithAWord.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ConditionalStatements\ShowDigitWithAWord\obj\Debug\ShowDigitWithAWord.pdb

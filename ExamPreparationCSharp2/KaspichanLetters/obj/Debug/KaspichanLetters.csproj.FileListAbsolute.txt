@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanLetters\bin\Debug\KaspichanLetters.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanLetters\bin\Debug\KaspichanLetters.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanLetters\bin\Debug\KaspichanLetters.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanLetters\obj\Debug\KaspichanLetters.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanLetters\obj\Debug\KaspichanLetters.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\ExamPreparationCSharp2\KaspichanLetters\obj\Debug\KaspichanLetters.pdb

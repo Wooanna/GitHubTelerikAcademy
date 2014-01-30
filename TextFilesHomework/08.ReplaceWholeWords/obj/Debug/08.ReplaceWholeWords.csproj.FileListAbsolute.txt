@@ -1,0 +1,6 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\08.ReplaceWholeWords\bin\Debug\08.ReplaceWholeWords.exe.config
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\08.ReplaceWholeWords\obj\Debug\08.ReplaceWholeWords.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\08.ReplaceWholeWords\bin\Debug\08.ReplaceWholeWords.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\08.ReplaceWholeWords\bin\Debug\08.ReplaceWholeWords.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\08.ReplaceWholeWords\obj\Debug\08.ReplaceWholeWords.exe
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\TextFilesHomework\08.ReplaceWholeWords\obj\Debug\08.ReplaceWholeWords.pdb

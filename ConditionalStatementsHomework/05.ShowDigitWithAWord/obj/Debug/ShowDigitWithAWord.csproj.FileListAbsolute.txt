@@ -1,0 +1,6 @@
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\ShowDigitWithAWord\bin\Debug\ShowDigitWithAWord.exe.config
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\ShowDigitWithAWord\bin\Debug\ShowDigitWithAWord.exe
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\ShowDigitWithAWord\bin\Debug\ShowDigitWithAWord.pdb
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\ShowDigitWithAWord\obj\Debug\ShowDigitWithAWord.csprojResolveAssemblyReference.cache
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\ShowDigitWithAWord\obj\Debug\ShowDigitWithAWord.exe
+c:\users\woo\documents\visual studio 2012\Projects\ConditionalStatements\ShowDigitWithAWord\obj\Debug\ShowDigitWithAWord.pdb
