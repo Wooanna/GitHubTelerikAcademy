@@ -1,0 +1,6 @@
+C:\Users\Woo\Desktop\1. Furniture_Скелет на решението\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+C:\Users\Woo\Desktop\1. Furniture_Скелет на решението\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Desktop\1. Furniture_Скелет на решението\FurnitureManufacturer\bin\Debug\Furnitures.exe
+C:\Users\Woo\Desktop\1. Furniture_Скелет на решението\FurnitureManufacturer\bin\Debug\Furnitures.pdb
+C:\Users\Woo\Desktop\1. Furniture_Скелет на решението\FurnitureManufacturer\obj\Debug\Furnitures.exe
+C:\Users\Woo\Desktop\1. Furniture_Скелет на решението\FurnitureManufacturer\obj\Debug\Furnitures.pdb
