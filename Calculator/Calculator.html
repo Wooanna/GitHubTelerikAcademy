@@ -1,0 +1,226 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="Calculator.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <td>
+                    <img src="calcIcon.jpg" /> 
+                    <input type="button"  name="minimize" id="minimize"/>
+                    <input type="button"  name="fullscreen" id="fullscreen"/>
+                    <input type="button" name="exit" id="exit"/>
+                    
+                </td>
+            </tr>
+        </thead>
+        <tr>
+            <td>
+                <form>
+                    <table id="secondwindow">
+                        <tr>
+                            <td id="menu">
+                                <span><mark>V</mark>iew </span>
+                                <span><mark>E</mark>dit </span>
+                                <span><mark>H</mark>elp </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="container">
+                                <table cellspacing="3px">
+                                    <tr>
+                                        <td colspan="10" id="display">
+                                            <div>885445  </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="10" id="representation">
+                                            <ul class="binaryrepresentation">
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                            </ul>
+                                            <ul id="firstrow">
+                                                <li class="left">63</li>
+                                                <li class="center">47</li>
+                                                <li class="right">32</li>
+                                            </ul>
+                                            <ul class="binaryrepresentation">
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                                <li>0000</li>
+                                            </ul>
+                                            <ul id="secondrow">
+                                                <li class="left">31</li>
+                                                <li class="center">15</li>
+                                                <li class="right">0</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" rowspan="3" class="radiofield">
+                                            <ul>
+                                                <li>
+                                                    <input type="radio" id="hex" checked name="numsys" />
+                                                    <label for="hex">Hex </label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" id="dec" name="numsys" />
+                                                    <label for="dec">Dec </label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" id="Oct" name="numsys" />
+                                                    <label for="Oct">Oct </label>
+                                                </li>
+
+                                                <li>
+                                                    <input type="radio" id="bin" name="numsys" />
+                                                    <label for="bin">Bin </label>
+                                                </li>
+                                            </ul>
+                                        </td>
+                                        <td></td>
+                                        <td>
+                                            <button class="inactive">Mod</button></td>
+                                        <td>
+                                            <button class="disabled" disabled="disabled">A</button></td>
+                                        <td>
+                                            <button class="inactive">MC</button></td>
+                                        <td>
+                                            <button class="inactive">MR</button></td>
+                                        <td>
+                                            <button class="inactive">MS</button></td>
+                                        <td>
+                                            <button class="inactive">M+</button></td>
+                                        <td>
+                                            <button class="inactive">M-</button></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <button class="active">(</button></td>
+                                        <td>
+                                            <button class="active">)</button></td>
+                                        <td>
+                                            <button class="disabled" disabled="disabled">B</button></td>
+                                        <td>
+                                            <button class="active" id="larr">&larr;</button></td>
+                                        <td>
+                                            <button class="active">CE</button></td>
+                                        <td>
+                                            <button class="active">C</button></td>
+                                        <td>
+                                            <button class="active">&plusmn;</button></td>
+                                        <td>
+                                            <button class="inactive" disabled="disabled">√</button></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <button class="active">RoL</button></td>
+                                        <td>
+                                            <button class="active">RoR</button></td>
+                                        <td>
+                                            <button class="disabled" disabled="disabled">C</button></td>
+                                        <td>
+                                            <button id="b7">7</button></td>
+                                        <td>
+                                            <button id="b8">8</button></td>
+                                        <td>
+                                            <button id="b9">9</button></td>
+                                        <td>
+                                            <button class="active">/</button></td>
+                                        <td>
+                                            <button class="inactive" disabled="disabled">%</button></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="radiofield" colspan="2" rowspan="3">
+                                            <ul>
+                                                <li>
+                                                    <input type="radio" id="qword" checked name="numsys1" />
+                                                    <label for="qword">Qword</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" id="dword" name="numsys1" />
+                                                    <label for="dword">Dword</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" id="word" name="numsys1" />
+                                                    <label for="word">Word</label>
+                                                </li>
+                                                <li>
+                                                    <input type="radio" id="byte" name="numsys1" />
+                                                    <label for="byte">Byte</label>
+                                                </li>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <button class="active">Or</button></td>
+                                        <td>
+                                            <button class="active">XoR</button></td>
+                                        <td>
+                                            <button class="disabled" disabled="disabled">D</button></td>
+                                        <td>
+                                            <button id="b4">4</button></td>
+                                        <td>
+                                            <button id="b5">5</button></td>
+                                        <td>
+                                            <button id="b6">6</button></td>
+                                        <td>
+                                            <button class="active">*</button></td>
+                                        <td>
+                                            <button class="inactive" disabled="disabled">1/x</button></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <button class="active">Lsh</button></td>
+                                        <td>
+                                            <button class="active">Rsh</button></td>
+                                        <td>
+                                            <button class="disabled" disabled="disabled">E</button></td>
+                                        <td>
+                                            <button id="b1">1</button></td>
+                                        <td>
+                                            <button id="b2">2</button></td>
+                                        <td>
+                                            <button id="b3">3</button></td>
+                                        <td>
+                                            <button class="active">-</button></td>
+                                        <td rowspan="2">
+                                            <button id="equals" class="active">=</button></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <button class="active">Not</button></td>
+                                        <td>
+                                            <button class="active">And</button></td>
+                                        <td>
+                                            <button class="disabled" disabled="disabled">F</button></td>
+                                        <td colspan="2">
+                                            <button id="b0">0</button></td>
+                                        <td>
+                                            <button class="disabled" disabled="disabled">.</button></td>
+                                        <td>
+                                            <button class="active">+</button></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
