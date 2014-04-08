@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\SASSHomework\Gallery\bin\Gallery.dll
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\SASSHomework\Gallery\bin\Gallery.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\SASSHomework\Gallery\obj\Debug\Gallery.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\SASSHomework\Gallery\obj\Debug\Gallery.dll
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\SASSHomework\Gallery\obj\Debug\Gallery.pdb
