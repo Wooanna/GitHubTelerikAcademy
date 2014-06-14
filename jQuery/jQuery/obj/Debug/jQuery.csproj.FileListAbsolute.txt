@@ -1,0 +1,5 @@
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\jQuery\jQuery\bin\jQuery.dll
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\jQuery\jQuery\bin\jQuery.pdb
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\jQuery\jQuery\obj\Debug\jQuery.csprojResolveAssemblyReference.cache
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\jQuery\jQuery\obj\Debug\jQuery.dll
+C:\Users\Woo\Documents\Visual Studio 2012\Projects\jQuery\jQuery\obj\Debug\jQuery.pdb
